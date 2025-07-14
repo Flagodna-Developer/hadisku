@@ -1,3 +1,11 @@
+---
+layout: default
+title: "HadisKu"
+description: "Kitab Hadis 14 Imam"
+image: "https://flagodna-developer.github.io/hadisku/screenshot/desktop.png"
+permalink: /
+---
+
 # HadisKu – Kitab Hadis 14 Imam
 
 **HadisKu** adalah aplikasi multi-platform yang menyatukan koleksi otentik dari **14 Imam** dalam satu tempat, sehingga memudahkan Anda mempelajari, merujuk, dan berbagi Hadits di mana pun Anda berada.
