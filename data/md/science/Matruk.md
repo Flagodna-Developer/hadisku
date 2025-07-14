@@ -1,0 +1,1 @@
+Adalah seorang perawi yang dituduh berbohong atau seorang perawi yang banyak melakukan kesalahan, sehingga riwayatnya bertentangan dengan riwayat para perawi tsiqah. atau perawi yang sering meriwayatkan hadis-hadis yang tidak diketahui (gharib) dari perawi-perawi tsiqah yang terkenal.

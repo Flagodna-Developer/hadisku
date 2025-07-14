@@ -1,0 +1,1 @@
+Ini adalah hadis yang diriwayatkan oleh seorang perawi yang sering lupa, melakukan kesalahan, dan secara terang-terangan tidak setia. Akibatnya, hadis yang diriwayatkannya bertentangan dengan para perawi yang tsiqah (dapat dipercaya).

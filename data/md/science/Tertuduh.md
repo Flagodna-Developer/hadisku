@@ -1,0 +1,1 @@
+Ini adalah Orang yang dituduh berbohong yang hadisnya berstatus hadis rekayasa, tetapi belum tentu hadis tersebut adalah hadis rekayasa, karena kondisinya sebagai tertuduh menyebabkan status hadis tersebut turun menjadi hadis rekayasa.
