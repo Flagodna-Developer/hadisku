@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "4341"
+  },
+  {
+    "name": "Mukadimah",
+    "value": "1-262",
+    "count": "262"
+  },
+  {
+    "name": "Thoharoh dan Sunnah-Sunnahnya",
+    "value": "263-658",
+    "count": "396"
+  },
+  {
+    "name": "Sholat",
+    "value": "659-697",
+    "count": "39"
+  },
+  {
+    "name": "Adzan dan Sunnah yang Ada di Dalamnya",
+    "value": "698-726",
+    "count": "29"
+  },
+  {
+    "name": "Masjid dan Berjamaah",
+    "value": "727-794",
+    "count": "68"
+  },
+  {
+    "name": "Mendirikan Sholat dan Sunnah yang Ada di Dalamnya",
+    "value": "795-1422",
+    "count": "628"
+  },
+  {
+    "name": "Jenazah",
+    "value": "1423-1627",
+    "count": "205"
+  },
+  {
+    "name": "Puasa",
+    "value": "1628-1772",
+    "count": "145"
+  },
+  {
+    "name": "Zakat",
+    "value": "1773-1834",
+    "count": "62"
+  },
+  {
+    "name": "Nikah",
+    "value": "1835-2005",
+    "count": "171"
+  },
+  {
+    "name": "Thalak",
+    "value": "2006-2080",
+    "count": "75"
+  },
+  {
+    "name": "Kafarah",
+    "value": "2081-2127",
+    "count": "47"
+  },
+  {
+    "name": "Perdagangan",
+    "value": "2128-2298",
+    "count": "171"
+  },
+  {
+    "name": "Hukum-Hukum",
+    "value": "2299-2523",
+    "count": "225"
+  },
+  {
+    "name": "Hudud",
+    "value": "2524-2604",
+    "count": "81"
+  },
+  {
+    "name": "Diyat",
+    "value": "2605-2684",
+    "count": "80"
+  },
+  {
+    "name": "Wasiat",
+    "value": "2685-2709",
+    "count": "25"
+  },
+  {
+    "name": "Waris",
+    "value": "2710-2742",
+    "count": "33"
+  },
+  {
+    "name": "Jihad",
+    "value": "2743-2872",
+    "count": "130"
+  },
+  {
+    "name": "Manasik",
+    "value": "2873-3110",
+    "count": "238"
+  },
+  {
+    "name": "Kurban",
+    "value": "3111-3152",
+    "count": "42"
+  },
+  {
+    "name": "Sembelihan",
+    "value": "3153-3190",
+    "count": "38"
+  },
+  {
+    "name": "Buruan",
+    "value": "3191-3241",
+    "count": "51"
+  },
+  {
+    "name": "Makanan",
+    "value": "3242-3361",
+    "count": "120"
+  },
+  {
+    "name": "Minuman",
+    "value": "3362-3426",
+    "count": "65"
+  },
+  {
+    "name": "Pengobatan",
+    "value": "3427-3539",
+    "count": "113"
+  },
+  {
+    "name": "Pakaian",
+    "value": "3540-3646",
+    "count": "107"
+  },
+  {
+    "name": "Adab",
+    "value": "3647-3816",
+    "count": "170"
+  },
+  {
+    "name": "Do'a",
+    "value": "3817-3882",
+    "count": "66"
+  },
+  {
+    "name": "Ta'bir Mimpi",
+    "value": "3883-3916",
+    "count": "34"
+  },
+  {
+    "name": "Fitnah",
+    "value": "3917-4089",
+    "count": "173"
+  },
+  {
+    "name": "Zuhud",
+    "value": "4090-4341",
+    "count": "252"
+  }
+]

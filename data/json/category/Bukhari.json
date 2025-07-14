@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "7008"
+  },
+  {
+    "name": "Permulaan Wahyu",
+    "value": "1-6",
+    "count": "6"
+  },
+  {
+    "name": "Iman",
+    "value": "7-56",
+    "count": "50"
+  },
+  {
+    "name": "Ilmu",
+    "value": "57-131",
+    "count": "75"
+  },
+  {
+    "name": "Wudlu",
+    "value": "132-239",
+    "count": "108"
+  },
+  {
+    "name": "Mandi",
+    "value": "240-284",
+    "count": "45"
+  },
+  {
+    "name": "Haidl",
+    "value": "285-321",
+    "count": "37"
+  },
+  {
+    "name": "Tayamum",
+    "value": "322-335",
+    "count": "14"
+  },
+  {
+    "name": "Shalat",
+    "value": "336-490",
+    "count": "155"
+  },
+  {
+    "name": "Waktu-waktu Shalat",
+    "value": "491-567",
+    "count": "77"
+  },
+  {
+    "name": "Adzan",
+    "value": "568-826",
+    "count": "259"
+  },
+  {
+    "name": "Jum'at",
+    "value": "827-1160",
+    "count": "334"
+  },
+  {
+    "name": "Jenazah",
+    "value": "1161-1307",
+    "count": "147"
+  },
+  {
+    "name": "Zakat",
+    "value": "1308-1416",
+    "count": "109"
+  },
+  {
+    "name": "Haji",
+    "value": "1417-1757",
+    "count": "341"
+  },
+  {
+    "name": "Shaum",
+    "value": "1758-1868",
+    "count": "111"
+  },
+  {
+    "name": "Shalat Tarawih",
+    "value": "1869-1884",
+    "count": "16"
+  },
+  {
+    "name": "Itikaf",
+    "value": "1885-1905",
+    "count": "21"
+  },
+  {
+    "name": "Jual Beli",
+    "value": "1906-2084",
+    "count": "179"
+  },
+  {
+    "name": "Jual Beli As Salam",
+    "value": "2085-2096",
+    "count": "12"
+  },
+  {
+    "name": "Asy Syuf'ah",
+    "value": "2097-2099",
+    "count": "3"
+  },
+  {
+    "name": "Al Ijarah (Sewa Menyewa dan Jasa)",
+    "value": "2100-2124",
+    "count": "25"
+  },
+  {
+    "name": "Al Hawalah (Pengalihan Hutang)",
+    "value": "2125-2134",
+    "count": "10"
+  },
+  {
+    "name": "Al Wakalah (Perwakilan)",
+    "value": "2135-2151",
+    "count": "17"
+  },
+  {
+    "name": "Al Muzara'ah (Pertanian)",
+    "value": "2152-2179",
+    "count": "28"
+  },
+  {
+    "name": "Al Musaqah (Mengairi Tanaman)",
+    "value": "2180-2209",
+    "count": "30"
+  },
+  {
+    "name": "Mencari Pinjaman dan Melunasi Hutang",
+    "value": "2210-2232",
+    "count": "23"
+  },
+  {
+    "name": "Persengkataan",
+    "value": "2233-2247",
+    "count": "15"
+  },
+  {
+    "name": "Barang Temuan",
+    "value": "2248-2259",
+    "count": "12"
+  },
+  {
+    "name": "Perbuatan-perbuatan Zalim dan Merampok",
+    "value": "2260-2302",
+    "count": "43"
+  },
+  {
+    "name": "Asy Syirkah (Perserikatan Usaha)",
+    "value": "2303-2324",
+    "count": "22"
+  },
+  {
+    "name": "Gadai",
+    "value": "2325-2332",
+    "count": "8"
+  },
+  {
+    "name": "Membebaskan Budak",
+    "value": "2333-2377",
+    "count": "45"
+  },
+  {
+    "name": "Hibah, Keutamaannya dan Anjuran Melakukannyanya",
+    "value": "2378-2442",
+    "count": "65"
+  },
+  {
+    "name": "Kesaksian",
+    "value": "2443-2492",
+    "count": "50"
+  },
+  {
+    "name": "Perdamaian",
+    "value": "2493-2511",
+    "count": "19"
+  },
+  {
+    "name": "Syarat-syarat",
+    "value": "2512-2532",
+    "count": "21"
+  },
+  {
+    "name": "Washiyat",
+    "value": "2533-2573",
+    "count": "41"
+  },
+  {
+    "name": "Jihad dan Penjelajahan",
+    "value": "2574-2860",
+    "count": "287"
+  },
+  {
+    "name": "Bagian Seperlima",
+    "value": "2861-2922",
+    "count": "62"
+  },
+  {
+    "name": "Jizyah",
+    "value": "2923-2951",
+    "count": "29"
+  },
+  {
+    "name": "Permulaan Penciptaan Makhluq",
+    "value": "2952-3078",
+    "count": "127"
+  },
+  {
+    "name": "Hadits-hadits Yang meriwayatkan Tentang Para nabi",
+    "value": "3079-3229",
+    "count": "151"
+  },
+  {
+    "name": "Perilaku Yang Terpuji",
+    "value": "3230-3654",
+    "count": "425"
+  },
+  {
+    "name": "Peperangan",
+    "value": "3655-4113",
+    "count": "459"
+  },
+  {
+    "name": "Tafsir Al-Qur'an",
+    "value": "4114-4595",
+    "count": "482"
+  },
+  {
+    "name": "Keutamaan Al-Qur'an",
+    "value": "4596-4674",
+    "count": "79"
+  },
+  {
+    "name": "Nikah",
+    "value": "4675-4849",
+    "count": "175"
+  },
+  {
+    "name": "Talaq",
+    "value": "4850-4931",
+    "count": "82"
+  },
+  {
+    "name": "Nafkah",
+    "value": "4932-4953",
+    "count": "22"
+  },
+  {
+    "name": "Makanan",
+    "value": "4954-5044",
+    "count": "91"
+  },
+  {
+    "name": "Aqiqah",
+    "value": "5045-5052",
+    "count": "8"
+  },
+  {
+    "name": "Penyembelihan dan Perburuan",
+    "value": "5053-5118",
+    "count": "66"
+  },
+  {
+    "name": "Kurban",
+    "value": "5119-5146",
+    "count": "28"
+  },
+  {
+    "name": "Minuman",
+    "value": "5147-5208",
+    "count": "62"
+  },
+  {
+    "name": "Sakit",
+    "value": "5209-5245",
+    "count": "37"
+  },
+  {
+    "name": "Pengobatan",
+    "value": "5246-5336",
+    "count": "91"
+  },
+  {
+    "name": "Pakaian",
+    "value": "5337-5512",
+    "count": "176"
+  },
+  {
+    "name": "Adab",
+    "value": "5513-5758",
+    "count": "246"
+  },
+  {
+    "name": "Meminta Izin",
+    "value": "5759-5828",
+    "count": "70"
+  },
+  {
+    "name": "Do'a",
+    "value": "5829-5932",
+    "count": "104"
+  },
+  {
+    "name": "Hal-hal Yang Melunakkan Hati",
+    "value": "5933-6104",
+    "count": "172"
+  },
+  {
+    "name": "Qadar",
+    "value": "6105-6130",
+    "count": "26"
+  },
+  {
+    "name": "Sumpah dan Nadzar",
+    "value": "6131-6213",
+    "count": "83"
+  },
+  {
+    "name": "Kafarah Sumpah",
+    "value": "6214-6227",
+    "count": "14"
+  },
+  {
+    "name": "Fara'idl",
+    "value": "6228-6273",
+    "count": "46"
+  },
+  {
+    "name": "Hukum Hudud",
+    "value": "6274-6353",
+    "count": "80"
+  },
+  {
+    "name": "Diyat",
+    "value": "6354-6406",
+    "count": "53"
+  },
+  {
+    "name": "Meminta Taubat Orang-orang Murtad dan para Pembangkang Serta memerangi Mereka",
+    "value": "6407-6426",
+    "count": "20"
+  },
+  {
+    "name": "Keterpaksaan",
+    "value": "6427-6438",
+    "count": "12"
+  },
+  {
+    "name": "Siasat Mengelak",
+    "value": "6439-6466",
+    "count": "28"
+  },
+  {
+    "name": "Ta'bir",
+    "value": "6467-6525",
+    "count": "59"
+  },
+  {
+    "name": "Fitnah",
+    "value": "6526-6603",
+    "count": "78"
+  },
+  {
+    "name": "Hukum-hukum",
+    "value": "6604-6684",
+    "count": "81"
+  },
+  {
+    "name": "Mengharap/Mengandai-andai",
+    "value": "6685-6704",
+    "count": "20"
+  },
+  {
+    "name": "Khabar Ahad",
+    "value": "6705-6725",
+    "count": "21"
+  },
+  {
+    "name": "Berpegang Teguh Terhadap Kitab Dan Sunnah",
+    "value": "6726-6822",
+    "count": "97"
+  },
+  {
+    "name": "Tauhid",
+    "value": "6823-7008",
+    "count": "186"
+  }
+]

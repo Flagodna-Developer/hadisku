@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "4590"
+  },
+  {
+    "name": "Thoharoh",
+    "value": "1-330",
+    "count": "330"
+  },
+  {
+    "name": "Sholat",
+    "value": "331-1330",
+    "count": "1000"
+  },
+  {
+    "name": "Zakat",
+    "value": "1331-1449",
+    "count": "119"
+  },
+  {
+    "name": "Barang Temuan",
+    "value": "1450-1462",
+    "count": "13"
+  },
+  {
+    "name": "Manasik",
+    "value": "1463-1749",
+    "count": "287"
+  },
+  {
+    "name": "Nikah",
+    "value": "1750-1859",
+    "count": "110"
+  },
+  {
+    "name": "Talak",
+    "value": "1860-1968",
+    "count": "109"
+  },
+  {
+    "name": "Puasa",
+    "value": "1969-2117",
+    "count": "149"
+  },
+  {
+    "name": "Jihad",
+    "value": "2118-2405",
+    "count": "288"
+  },
+  {
+    "name": "Sembelihan",
+    "value": "2406-2460",
+    "count": "55"
+  },
+  {
+    "name": "Buruan",
+    "value": "2461-2477",
+    "count": "17"
+  },
+  {
+    "name": "Wasiat",
+    "value": "2478-2498",
+    "count": "21"
+  },
+  {
+    "name": "Waris",
+    "value": "2499-2538",
+    "count": "40"
+  },
+  {
+    "name": "Pajak, Kepemimpinan dan Fai",
+    "value": "2539-2684",
+    "count": "146"
+  },
+  {
+    "name": "Jenazah",
+    "value": "2685-2820",
+    "count": "136"
+  },
+  {
+    "name": "Sumpah dan Nadzar",
+    "value": "2821-2889",
+    "count": "69"
+  },
+  {
+    "name": "Jual Beli",
+    "value": "2890-3099",
+    "count": "210"
+  },
+  {
+    "name": "Peradilan",
+    "value": "3100-3156",
+    "count": "57"
+  },
+  {
+    "name": "Ilmu",
+    "value": "3157-3183",
+    "count": "27"
+  },
+  {
+    "name": "Minuman",
+    "value": "3184-3246",
+    "count": "63"
+  },
+  {
+    "name": "Makanan",
+    "value": "3247-3356",
+    "count": "110"
+  },
+  {
+    "name": "Pengobatan",
+    "value": "3357-3424",
+    "count": "68"
+  },
+  {
+    "name": "Pembebasan Budak",
+    "value": "3425-3454",
+    "count": "30"
+  },
+  {
+    "name": "Huruf dan Bacaan",
+    "value": "3455-3493",
+    "count": "39"
+  },
+  {
+    "name": "Pemandian Umum",
+    "value": "3494-3503",
+    "count": "10"
+  },
+  {
+    "name": "Pakaian",
+    "value": "3504-3627",
+    "count": "124"
+  },
+  {
+    "name": "Merapihkan Rambut",
+    "value": "3628-3680",
+    "count": "53"
+  },
+  {
+    "name": "Cincin",
+    "value": "3681-3701",
+    "count": "21"
+  },
+  {
+    "name": "Fitnah dan Peperangan Besar",
+    "value": "3702-3730",
+    "count": "29"
+  },
+  {
+    "name": "Al Mahdi",
+    "value": "3731-3739",
+    "count": "9"
+  },
+  {
+    "name": "Peperangan Besar",
+    "value": "3740-3786",
+    "count": "47"
+  },
+  {
+    "name": "Hudud",
+    "value": "3787-3895",
+    "count": "109"
+  },
+  {
+    "name": "Diyat",
+    "value": "3896-3979",
+    "count": "84"
+  },
+  {
+    "name": "Sunnah",
+    "value": "3980-4142",
+    "count": "163"
+  },
+  {
+    "name": "Adab",
+    "value": "4143-4590",
+    "count": "448"
+  }
+]

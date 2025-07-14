@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "4790"
+  },
+  {
+    "name": "Thaharah (Bersuci)",
+    "value": "1-775",
+    "count": "775"
+  },
+  {
+    "name": "Haidl",
+    "value": "776-871",
+    "count": "96"
+  },
+  {
+    "name": "Shalat",
+    "value": "872-1559",
+    "count": "688"
+  },
+  {
+    "name": "Jum'at",
+    "value": "1560-1614",
+    "count": "55"
+  },
+  {
+    "name": "Witir",
+    "value": "1615-1692",
+    "count": "78"
+  },
+  {
+    "name": "Dua Hari Raya",
+    "value": "1693-1778",
+    "count": "86"
+  },
+  {
+    "name": "Meminta Hujan",
+    "value": "1779-1790",
+    "count": "12"
+  },
+  {
+    "name": "Jenazah",
+    "value": "1791-1865",
+    "count": "75"
+  },
+  {
+    "name": "Zakat",
+    "value": "1866-2047",
+    "count": "182"
+  },
+  {
+    "name": "Zakat Fithrah",
+    "value": "2048-2126",
+    "count": "79"
+  },
+  {
+    "name": "Puasa",
+    "value": "2127-2387",
+    "count": "261"
+  },
+  {
+    "name": "Haji",
+    "value": "2388-2769",
+    "count": "382"
+  },
+  {
+    "name": "Jual Beli",
+    "value": "2770-3067",
+    "count": "298"
+  },
+  {
+    "name": "Hudud, Diyat dan Lainnya",
+    "value": "3068-3470",
+    "count": "403"
+  },
+  {
+    "name": "Nikah",
+    "value": "3471-3842",
+    "count": "372"
+  },
+  {
+    "name": "Talak, Khulu' dan Lain-lain",
+    "value": "3843-4013",
+    "count": "171"
+  },
+  {
+    "name": "Faraidl, Peperangan dan Lain-lain",
+    "value": "4014-4115",
+    "count": "102"
+  },
+  {
+    "name": "Peperangan",
+    "value": "4116-4167",
+    "count": "52"
+  },
+  {
+    "name": "Budak Mukatab",
+    "value": "4168-4223",
+    "count": "56"
+  },
+  {
+    "name": "Permasalahan yang jarang disinggung",
+    "value": "4224-4242",
+    "count": "19"
+  },
+  {
+    "name": "Wasiat",
+    "value": "4243-4258",
+    "count": "16"
+  },
+  {
+    "name": "Perwakilan",
+    "value": "4259-4308",
+    "count": "50"
+  },
+  {
+    "name": "Penyusuan",
+    "value": "4309-4350",
+    "count": "42"
+  },
+  {
+    "name": "Wakaf",
+    "value": "4351-4410",
+    "count": "60"
+  },
+  {
+    "name": "Keputusan Pengadilan, Hukum dan Lain-lain",
+    "value": "4411-4562",
+    "count": "152"
+  },
+  {
+    "name": "Minuman dan Lain-lain",
+    "value": "4563-4768",
+    "count": "206"
+  },
+  {
+    "name": "Perlombaan Pacuan Kuda",
+    "value": "4769-4790",
+    "count": "22"
+  }
+]

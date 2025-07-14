@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "1808"
+  },
+  {
+    "name": "Wudhu'",
+    "value": "1-300",
+    "count": "300"
+  },
+  {
+    "name": "Shalat",
+    "value": "301-1469",
+    "count": "1169"
+  },
+  {
+    "name": "Imam Dalam Shalat",
+    "value": "1470-1719",
+    "count": "250"
+  },
+  {
+    "name": "Jum'at",
+    "value": "1720-1878",
+    "count": "159"
+  },
+  {
+    "name": "Puasa",
+    "value": "1879-2243",
+    "count": "365"
+  },
+  {
+    "name": "Zakat",
+    "value": "2244-2503",
+    "count": "260"
+  },
+  {
+    "name": "Manasik Haji",
+    "value": "2504-1808",
+    "count": "-695"
+  }
+]

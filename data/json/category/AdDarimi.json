@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "3367"
+  },
+  {
+    "name": "Mukaddimah",
+    "value": "1-647",
+    "count": "647"
+  },
+  {
+    "name": "Thoharoh",
+    "value": "648-1158",
+    "count": "511"
+  },
+  {
+    "name": "Sholat",
+    "value": "1159-1562",
+    "count": "404"
+  },
+  {
+    "name": "Zakat",
+    "value": "1563-1619",
+    "count": "57"
+  },
+  {
+    "name": "Puasa",
+    "value": "1620-1717",
+    "count": "98"
+  },
+  {
+    "name": "Manasik (Haji)",
+    "value": "1718-1862",
+    "count": "145"
+  },
+  {
+    "name": "Udliyah (Sembelihan)",
+    "value": "1863-1917",
+    "count": "55"
+  },
+  {
+    "name": "Buruan",
+    "value": "1918-1933",
+    "count": "16"
+  },
+  {
+    "name": "Makanan",
+    "value": "1934-1995",
+    "count": "62"
+  },
+  {
+    "name": "Minuman",
+    "value": "1996-2042",
+    "count": "47"
+  },
+  {
+    "name": "Mimpi",
+    "value": "2043-2069",
+    "count": "27"
+  },
+  {
+    "name": "Nikah",
+    "value": "2070-2161",
+    "count": "92"
+  },
+  {
+    "name": "Talak",
+    "value": "2162-2193",
+    "count": "32"
+  },
+  {
+    "name": "Hukuman",
+    "value": "2194-2226",
+    "count": "33"
+  },
+  {
+    "name": "Nadzar dan Iman",
+    "value": "2227-2244",
+    "count": "18"
+  },
+  {
+    "name": "Diyat",
+    "value": "2245-2282",
+    "count": "38"
+  },
+  {
+    "name": "Jihad",
+    "value": "2283-2327",
+    "count": "45"
+  },
+  {
+    "name": "Sejarah",
+    "value": "2328-2418",
+    "count": "91"
+  },
+  {
+    "name": "Jual-Beli",
+    "value": "2419-2514",
+    "count": "96"
+  },
+  {
+    "name": "Meminta Izin",
+    "value": "2515-2589",
+    "count": "75"
+  },
+  {
+    "name": "Budak",
+    "value": "2590-2725",
+    "count": "136"
+  },
+  {
+    "name": "Faro'idl",
+    "value": "2726-3045",
+    "count": "320"
+  },
+  {
+    "name": "Washiyat",
+    "value": "3046-3171",
+    "count": "126"
+  },
+  {
+    "name": "Keutamaan Al Qur'an",
+    "value": "3172-3367",
+    "count": "196"
+  }
+]

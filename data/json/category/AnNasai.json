@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "5662"
+  },
+  {
+    "name": "Thoharoh",
+    "value": "1-322",
+    "count": "322"
+  },
+  {
+    "name": "Air",
+    "value": "323-345",
+    "count": "23"
+  },
+  {
+    "name": "Haidl dan Istihadloh",
+    "value": "346-392",
+    "count": "47"
+  },
+  {
+    "name": "Mandi dan Tayammum",
+    "value": "393-443",
+    "count": "51"
+  },
+  {
+    "name": "Sholat",
+    "value": "444-489",
+    "count": "46"
+  },
+  {
+    "name": "Waktu-Waktu Sholat",
+    "value": "490-621",
+    "count": "132"
+  },
+  {
+    "name": "Adzan",
+    "value": "622-680",
+    "count": "59"
+  },
+  {
+    "name": "Masjid",
+    "value": "681-733",
+    "count": "53"
+  },
+  {
+    "name": "Kiblat",
+    "value": "734-768",
+    "count": "35"
+  },
+  {
+    "name": "Keimaman",
+    "value": "769-865",
+    "count": "97"
+  },
+  {
+    "name": "Iftitah (Pembukaan)",
+    "value": "866-1018",
+    "count": "153"
+  },
+  {
+    "name": "Pelaksanaan",
+    "value": "1019-1165",
+    "count": "147"
+  },
+  {
+    "name": "Sahwi (Lupa)",
+    "value": "1166-1349",
+    "count": "184"
+  },
+  {
+    "name": "Jum'at",
+    "value": "1350-1415",
+    "count": "66"
+  },
+  {
+    "name": "Mengqoshor Sholat Saat Safar",
+    "value": "1416-1441",
+    "count": "26"
+  },
+  {
+    "name": "Sholat Kusuf (Gerhana)",
+    "value": "1442-1486",
+    "count": "45"
+  },
+  {
+    "name": "Istisqo (Meminta Hujan)",
+    "value": "1487-1511",
+    "count": "25"
+  },
+  {
+    "name": "Sholat Khouf (Dalam Kondisi Takut)",
+    "value": "1512-1537",
+    "count": "26"
+  },
+  {
+    "name": "Sholat Idul Adha dan Idul Fithri",
+    "value": "1538-1579",
+    "count": "42"
+  },
+  {
+    "name": "Qiyamul Lail dan Sholat Sunnah Siang Hari",
+    "value": "1580-1794",
+    "count": "215"
+  },
+  {
+    "name": "Jenazah",
+    "value": "1795-2062",
+    "count": "268"
+  },
+  {
+    "name": "Puasa",
+    "value": "2063-2391",
+    "count": "329"
+  },
+  {
+    "name": "Zakat",
+    "value": "2392-2571",
+    "count": "180"
+  },
+  {
+    "name": "Manasik Haji",
+    "value": "2572-3034",
+    "count": "463"
+  },
+  {
+    "name": "Jihad",
+    "value": "3035-3144",
+    "count": "110"
+  },
+  {
+    "name": "Pernikahaan",
+    "value": "3145-3335",
+    "count": "191"
+  },
+  {
+    "name": "Talak",
+    "value": "3336-3504",
+    "count": "169"
+  },
+  {
+    "name": "Kuda Perang",
+    "value": "3505-3537",
+    "count": "33"
+  },
+  {
+    "name": "Waqaf",
+    "value": "3538-3552",
+    "count": "15"
+  },
+  {
+    "name": "Wasiat",
+    "value": "3553-3611",
+    "count": "59"
+  },
+  {
+    "name": "Pemberian",
+    "value": "3612-3627",
+    "count": "16"
+  },
+  {
+    "name": "Hibah",
+    "value": "3628-3645",
+    "count": "18"
+  },
+  {
+    "name": "Ruqba",
+    "value": "3646-3659",
+    "count": "14"
+  },
+  {
+    "name": "Umra",
+    "value": "3660-3700",
+    "count": "41"
+  },
+  {
+    "name": "Sumpah dan Nadzar",
+    "value": "3701-3877",
+    "count": "177"
+  },
+  {
+    "name": "Menggauli Wanita",
+    "value": "3878-3902",
+    "count": "25"
+  },
+  {
+    "name": "Kesucian Darah",
+    "value": "3903-4063",
+    "count": "161"
+  },
+  {
+    "name": "Pembagian Fa'i",
+    "value": "4064-4079",
+    "count": "16"
+  },
+  {
+    "name": "Baiah",
+    "value": "4080-4140",
+    "count": "61"
+  },
+  {
+    "name": "Aqiqoh",
+    "value": "4141-4149",
+    "count": "9"
+  },
+  {
+    "name": "Far' dan 'Athiroh",
+    "value": "4150-4189",
+    "count": "40"
+  },
+  {
+    "name": "Buruan dan Sembelihan",
+    "value": "4190-4284",
+    "count": "95"
+  },
+  {
+    "name": "Hewan Sembelihan",
+    "value": "4285-4372",
+    "count": "88"
+  },
+  {
+    "name": "Jual-Beli",
+    "value": "4373-4626",
+    "count": "254"
+  },
+  {
+    "name": "Qussamah",
+    "value": "4627-4786",
+    "count": "160"
+  },
+  {
+    "name": "Potong Tangan",
+    "value": "4787-4898",
+    "count": "112"
+  },
+  {
+    "name": "Iman dan Syariatnya",
+    "value": "4899-4953",
+    "count": "55"
+  },
+  {
+    "name": "Perhiasan",
+    "value": "4954-5283",
+    "count": "330"
+  },
+  {
+    "name": "Adab Hakim",
+    "value": "5284-5332",
+    "count": "49"
+  },
+  {
+    "name": "Meminta Perlindungan",
+    "value": "5333-5444",
+    "count": "112"
+  },
+  {
+    "name": "Minuman",
+    "value": "5445-5662",
+    "count": "218"
+  }
+]

@@ -1,0 +1,16 @@
+# Basic settings
+title: FastiQuran
+description: Lightweight, Ad-Free, and Always Free
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Site metadata
+url: "https://flagodna-developer.github.io/FastiQuran"
+author: "FlagoDNA"
+
+# SEO & Social sharing
+og_image: ""
+twitter_card: summary_large_image
+
+# Favicon 
+favicon: ""

@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "1595"
+  },
+  {
+    "name": "Waktu-Waktu Sholat",
+    "value": "1-28",
+    "count": "28"
+  },
+  {
+    "name": "Thoharoh",
+    "value": "29-133",
+    "count": "105"
+  },
+  {
+    "name": "Adzan",
+    "value": "134-463",
+    "count": "330"
+  },
+  {
+    "name": "Jenazah",
+    "value": "464-512",
+    "count": "49"
+  },
+  {
+    "name": "Zakat",
+    "value": "513-556",
+    "count": "44"
+  },
+  {
+    "name": "Puasa",
+    "value": "557-604",
+    "count": "48"
+  },
+  {
+    "name": "I'tikaf",
+    "value": "605-616",
+    "count": "12"
+  },
+  {
+    "name": "Haji",
+    "value": "617-848",
+    "count": "232"
+  },
+  {
+    "name": "Jihad",
+    "value": "849-894",
+    "count": "46"
+  },
+  {
+    "name": "Nadzar dan Iman",
+    "value": "895-911",
+    "count": "17"
+  },
+  {
+    "name": "Sembelihan Kurban",
+    "value": "912-924",
+    "count": "13"
+  },
+  {
+    "name": "Sembelihan",
+    "value": "925-933",
+    "count": "9"
+  },
+  {
+    "name": "Buruan",
+    "value": "934-944",
+    "count": "11"
+  },
+  {
+    "name": "Aqiqoh",
+    "value": "945-950",
+    "count": "6"
+  },
+  {
+    "name": "Faroidl (Pembagian Harta Waris)",
+    "value": "951-963",
+    "count": "13"
+  },
+  {
+    "name": "Nikah",
+    "value": "964-1008",
+    "count": "45"
+  },
+  {
+    "name": "Tholak",
+    "value": "1009-1100",
+    "count": "92"
+  },
+  {
+    "name": "Penyusuan",
+    "value": "1101-1118",
+    "count": "18"
+  },
+  {
+    "name": "Jual Beli",
+    "value": "1119-1194",
+    "count": "76"
+  },
+  {
+    "name": "Pinjaman",
+    "value": "1195-1196",
+    "count": "2"
+  },
+  {
+    "name": "Penyiraman",
+    "value": "1197-1198",
+    "count": "2"
+  },
+  {
+    "name": "Sewa Tanah",
+    "value": "1199-1202",
+    "count": "4"
+  },
+  {
+    "name": "Syuf'ah",
+    "value": "1203-1204",
+    "count": "2"
+  },
+  {
+    "name": "Peradilan",
+    "value": "1205-1263",
+    "count": "59"
+  },
+  {
+    "name": "Memerdekakan Budak dan Wala'",
+    "value": "1264-1282",
+    "count": "19"
+  },
+  {
+    "name": "Budak Yang di Merdekakan",
+    "value": "1283-1285",
+    "count": "3"
+  },
+  {
+    "name": "Mudabbar",
+    "value": "1286-1287",
+    "count": "2"
+  },
+  {
+    "name": "Hukuman Pelanggaran",
+    "value": "1288-1323",
+    "count": "36"
+  },
+  {
+    "name": "Minuman",
+    "value": "1324-1337",
+    "count": "14"
+  },
+  {
+    "name": "Tebusan",
+    "value": "1338-1371",
+    "count": "34"
+  },
+  {
+    "name": "Qussamah",
+    "value": "1372-1373",
+    "count": "2"
+  },
+  {
+    "name": "Lain-Lain",
+    "value": "1374-1595",
+    "count": "222"
+  }
+]

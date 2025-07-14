@@ -1,0 +1,30 @@
+{
+  "en": [
+    {
+      "name": "FastiQuran",
+      "desc": "Free · No Ads · Cross-Platform. Just Quran for You.",
+      "url": "https://play.google.com/store/apps/details?id=com.flagodna.fastiquran",
+      "image": "https://play-lh.googleusercontent.com/dcNZr7J5hL3m-XsbFDDtLCWnvqxMgmw5SyQXIidUjIuujvJ3p3-x1VZnF97MYjsobOg=w120-h240-rw"
+    },
+    {
+      "name": "FastiShare",
+      "desc": "Fast · Local File Sharing, without requiring internet access or installation",
+      "url": "https://play.google.com/store/apps/details?id=com.flagodna.fastishare",
+      "image": "https://play-lh.googleusercontent.com/W0iEkux9x8VAsFwFeWfYhYTyr4vGavUGaBpxdyfPqdzQLTOmKDGgxFWzLHV5JytOqz3o=w120-h240-rw"
+    }
+  ],
+  "id": [
+    {
+      "name": "FastiQuran",
+      "desc": "Aplikasi Quran Gratis · Tanpa Iklan · Multi Platform. Hanya Quran untuk Kamu.",
+      "url": "https://play.google.com/store/apps/details?id=com.flagodna.fastiquran",
+      "image": "https://play-lh.googleusercontent.com/dcNZr7J5hL3m-XsbFDDtLCWnvqxMgmw5SyQXIidUjIuujvJ3p3-x1VZnF97MYjsobOg=w120-h240-rw"
+    },
+    {
+      "name": "FastiShare",
+      "desc": "Aplikasi berbagi file secara offline, mudah dan dapat digunakan di berbagai tipe OS",
+      "url": "https://play.google.com/store/apps/details?id=com.flagodna.fastishare",
+      "image": "https://play-lh.googleusercontent.com/W0iEkux9x8VAsFwFeWfYhYTyr4vGavUGaBpxdyfPqdzQLTOmKDGgxFWzLHV5JytOqz3o=w120-h240-rw"
+    }
+  ]
+}

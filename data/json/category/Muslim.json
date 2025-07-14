@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "5362"
+  },
+  {
+    "name": "Mukodimah",
+    "value": "1-8",
+    "count": "8"
+  },
+  {
+    "name": "Iman",
+    "value": "9-327",
+    "count": "319"
+  },
+  {
+    "name": "Thoharoh",
+    "value": "328-439",
+    "count": "112"
+  },
+  {
+    "name": "Haid",
+    "value": "440-567",
+    "count": "128"
+  },
+  {
+    "name": "Sholat",
+    "value": "568-807",
+    "count": "240"
+  },
+  {
+    "name": "Masjid dan Tempat-Tempat Sholat",
+    "value": "808-1104",
+    "count": "297"
+  },
+  {
+    "name": "Sholatnya Musafir dan Penjelasan Tentang Qoshor",
+    "value": "1105-1392",
+    "count": "288"
+  },
+  {
+    "name": "Jum'at",
+    "value": "1393-1463",
+    "count": "71"
+  },
+  {
+    "name": "Sholat Dua Hari Raya",
+    "value": "1464-1485",
+    "count": "22"
+  },
+  {
+    "name": "Sholat Istisqo'",
+    "value": "1486-1498",
+    "count": "13"
+  },
+  {
+    "name": "Sholat Kusuf (Gerhana)",
+    "value": "1499-1522",
+    "count": "24"
+  },
+  {
+    "name": "Jenazah",
+    "value": "1523-1624",
+    "count": "102"
+  },
+  {
+    "name": "Zakat",
+    "value": "1625-1792",
+    "count": "168"
+  },
+  {
+    "name": "Puasa",
+    "value": "1793-2001",
+    "count": "209"
+  },
+  {
+    "name": "I'tikaf",
+    "value": "2002-2011",
+    "count": "10"
+  },
+  {
+    "name": "Haji",
+    "value": "2012-2484",
+    "count": "473"
+  },
+  {
+    "name": "Nikah",
+    "value": "2485-2614",
+    "count": "130"
+  },
+  {
+    "name": "Menyusui",
+    "value": "2615-2674",
+    "count": "60"
+  },
+  {
+    "name": "Talak",
+    "value": "2675-2740",
+    "count": "66"
+  },
+  {
+    "name": "Li'an",
+    "value": "2741-2757",
+    "count": "17"
+  },
+  {
+    "name": "Memerdekakan Budak",
+    "value": "2758-2779",
+    "count": "22"
+  },
+  {
+    "name": "Jual Beli",
+    "value": "2780-2895",
+    "count": "116"
+  },
+  {
+    "name": "Pengairan",
+    "value": "2896-3026",
+    "count": "131"
+  },
+  {
+    "name": "Waris",
+    "value": "3027-3043",
+    "count": "17"
+  },
+  {
+    "name": "Hibah",
+    "value": "3044-3073",
+    "count": "30"
+  },
+  {
+    "name": "Wasiat",
+    "value": "3074-3091",
+    "count": "18"
+  },
+  {
+    "name": "Nadzar",
+    "value": "3092-3103",
+    "count": "12"
+  },
+  {
+    "name": "Sumpah",
+    "value": "3104-3156",
+    "count": "53"
+  },
+  {
+    "name": "Qusamah, Pemberontak, Qishos dan Diyat",
+    "value": "3157-3188",
+    "count": "32"
+  },
+  {
+    "name": "Hudud",
+    "value": "3189-3227",
+    "count": "39"
+  },
+  {
+    "name": "Peradilan",
+    "value": "3228-3246",
+    "count": "19"
+  },
+  {
+    "name": "Barang Temuan",
+    "value": "3247-3259",
+    "count": "13"
+  },
+  {
+    "name": "Jihad dan Ekspedisi",
+    "value": "3260-3388",
+    "count": "129"
+  },
+  {
+    "name": "Kepemimpinan",
+    "value": "3389-3559",
+    "count": "171"
+  },
+  {
+    "name": "Buruan, Sembelihan dan Hewan-Hewan Yang di Makan",
+    "value": "3560-3620",
+    "count": "61"
+  },
+  {
+    "name": "Hewan Kurban",
+    "value": "3621-3659",
+    "count": "39"
+  },
+  {
+    "name": "Minuman",
+    "value": "3660-3845",
+    "count": "186"
+  },
+  {
+    "name": "Pakaian dan Perhiasan",
+    "value": "3846-3973",
+    "count": "128"
+  },
+  {
+    "name": "Adab",
+    "value": "3974-4018",
+    "count": "45"
+  },
+  {
+    "name": "Salam",
+    "value": "4019-4164",
+    "count": "146"
+  },
+  {
+    "name": "Lafadz Termasuk Dari Adab dan Yang Lainnya",
+    "value": "4165-4184",
+    "count": "20"
+  },
+  {
+    "name": "Syair",
+    "value": "4185-4194",
+    "count": "10"
+  },
+  {
+    "name": "Mimpi",
+    "value": "4195-4220",
+    "count": "26"
+  },
+  {
+    "name": "Keutamaan",
+    "value": "4221-4388",
+    "count": "168"
+  },
+  {
+    "name": "Keutamaan Sahabat",
+    "value": "4389-4620",
+    "count": "232"
+  },
+  {
+    "name": "Berbuat Baik, Menyambut Silaturahmi dan Adab",
+    "value": "4621-4780",
+    "count": "160"
+  },
+  {
+    "name": "Takdir",
+    "value": "4781-4816",
+    "count": "36"
+  },
+  {
+    "name": "Ilmu",
+    "value": "4817-4831",
+    "count": "15"
+  },
+  {
+    "name": "Dzikir, Doa, Taubat dan Istighfar",
+    "value": "4832-4926",
+    "count": "95"
+  },
+  {
+    "name": "Taubat",
+    "value": "4927-4975",
+    "count": "49"
+  },
+  {
+    "name": "Sifat Munafik dan Hukumnya",
+    "value": "4976-4990",
+    "count": "15"
+  },
+  {
+    "name": "Sifat Hari Kiamat, Surga dan Neraka",
+    "value": "4991-5048",
+    "count": "58"
+  },
+  {
+    "name": "Surga, Sifat dan Penghuninya",
+    "value": "5049-5127",
+    "count": "79"
+  },
+  {
+    "name": "Fitnah dan Tanda Kiamat",
+    "value": "5128-5255",
+    "count": "128"
+  },
+  {
+    "name": "Zuhud dan Kelembutan Hati",
+    "value": "5256-5329",
+    "count": "74"
+  },
+  {
+    "name": "Tafsir",
+    "value": "5330-5362",
+    "count": "33"
+  }
+]

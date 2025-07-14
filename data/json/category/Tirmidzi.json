@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Semua",
+    "value": "all",
+    "count": "3891"
+  },
+  {
+    "name": "Bersuci",
+    "value": "1-137",
+    "count": "137"
+  },
+  {
+    "name": "Shalat",
+    "value": "138-449",
+    "count": "312"
+  },
+  {
+    "name": "Jum'at",
+    "value": "450-559",
+    "count": "110"
+  },
+  {
+    "name": "Zakat",
+    "value": "560-617",
+    "count": "58"
+  },
+  {
+    "name": "Puasa",
+    "value": "618-736",
+    "count": "119"
+  },
+  {
+    "name": "Haji",
+    "value": "737-887",
+    "count": "151"
+  },
+  {
+    "name": "Jenazah",
+    "value": "888-999",
+    "count": "112"
+  },
+  {
+    "name": "Nikah",
+    "value": "1000-1064",
+    "count": "65"
+  },
+  {
+    "name": "Penyusuan",
+    "value": "1065-1094",
+    "count": "30"
+  },
+  {
+    "name": "Cerai dan Li'an",
+    "value": "1095-1125",
+    "count": "31"
+  },
+  {
+    "name": "Jual Beli",
+    "value": "1126-1242",
+    "count": "117"
+  },
+  {
+    "name": "Hukum-Hukum",
+    "value": "1243-1306",
+    "count": "64"
+  },
+  {
+    "name": "Diyat",
+    "value": "1307-1342",
+    "count": "36"
+  },
+  {
+    "name": "Hukum Hudud",
+    "value": "1343-1383",
+    "count": "41"
+  },
+  {
+    "name": "Berburu",
+    "value": "1384-1391",
+    "count": "8"
+  },
+  {
+    "name": "Penyembelihan",
+    "value": "1392-1392",
+    "count": "1"
+  },
+  {
+    "name": "Makanan",
+    "value": "1393-1401",
+    "count": "9"
+  },
+  {
+    "name": "Hukum-Hukum dan Faedah",
+    "value": "1402-1412",
+    "count": "11"
+  },
+  {
+    "name": "Hewan Kurban",
+    "value": "1413-1443",
+    "count": "31"
+  },
+  {
+    "name": "Nadzar dan Sumpah",
+    "value": "1444-1467",
+    "count": "24"
+  },
+  {
+    "name": "Ekspedisi",
+    "value": "1468-1543",
+    "count": "76"
+  },
+  {
+    "name": "Keutamaan Jihad",
+    "value": "1544-1592",
+    "count": "49"
+  },
+  {
+    "name": "Jihad",
+    "value": "1593-1641",
+    "count": "49"
+  },
+  {
+    "name": "Baju",
+    "value": "1642-1709",
+    "count": "68"
+  },
+  {
+    "name": "Makanan",
+    "value": "1710-1783",
+    "count": "74"
+  },
+  {
+    "name": "Minuman",
+    "value": "1784-1818",
+    "count": "35"
+  },
+  {
+    "name": "Berbakti dan menyambung silaturrahim",
+    "value": "1819-1958",
+    "count": "140"
+  },
+  {
+    "name": "Kedokteran",
+    "value": "1959-2015",
+    "count": "57"
+  },
+  {
+    "name": "Fara'idl",
+    "value": "2016-2041",
+    "count": "26"
+  },
+  {
+    "name": "Washiyat",
+    "value": "2042-2050",
+    "count": "9"
+  },
+  {
+    "name": "Wala' dan Hibbah (Pemberian)",
+    "value": "2051-2058",
+    "count": "8"
+  },
+  {
+    "name": "Qodar",
+    "value": "2059-2083",
+    "count": "25"
+  },
+  {
+    "name": "Fitnah",
+    "value": "2084-2195",
+    "count": "112"
+  },
+  {
+    "name": "Mimpi",
+    "value": "2196-2218",
+    "count": "23"
+  },
+  {
+    "name": "Persaksian",
+    "value": "2219-2225",
+    "count": "7"
+  },
+  {
+    "name": "Zuhud",
+    "value": "2226-2338",
+    "count": "113"
+  },
+  {
+    "name": "Sifat Kiamat, Penggugah Hati dan Waro'",
+    "value": "2339-2445",
+    "count": "107"
+  },
+  {
+    "name": "Sifat Surga",
+    "value": "2446-2495",
+    "count": "50"
+  },
+  {
+    "name": "Sifat Jahannam",
+    "value": "2496-2530",
+    "count": "35"
+  },
+  {
+    "name": "Iman",
+    "value": "2531-2568",
+    "count": "38"
+  },
+  {
+    "name": "Ilmu",
+    "value": "2569-2611",
+    "count": "43"
+  },
+  {
+    "name": "Meminta Izin dan Adab",
+    "value": "2612-2659",
+    "count": "48"
+  },
+  {
+    "name": "Adab",
+    "value": "2660-2785",
+    "count": "126"
+  },
+  {
+    "name": "Permisalan",
+    "value": "2786-2799",
+    "count": "14"
+  },
+  {
+    "name": "Keutamaan Al Qur'an",
+    "value": "2800-2850",
+    "count": "51"
+  },
+  {
+    "name": "Qiro'at",
+    "value": "2851-2873",
+    "count": "23"
+  },
+  {
+    "name": "Tafsir Al Qur'an",
+    "value": "2874-3291",
+    "count": "418"
+  },
+  {
+    "name": "Do'a",
+    "value": "3292-3537",
+    "count": "246"
+  },
+  {
+    "name": "Budi Pekerti yang Terpuji",
+    "value": "3538-3891",
+    "count": "354"
+  }
+]
