@@ -8,7 +8,7 @@ Selamat datang di Android resmi rilis **HadisKu**. Pilih versi di bawah ini untu
 
 ### [2.2.5](#2.2.5)
 
-**Tanggal Rilis: ** 15 Juli 2025
+**Tanggal Rilis:** 15 Juli 2025
 
 - ✅ Preferensi Pengaturan
 - ✅ Pencarian Hadist Lebih Akurat dan Cepat
@@ -28,7 +28,7 @@ Selamat datang di Android resmi rilis **HadisKu**. Pilih versi di bawah ini untu
 
 ### [2.2.4](#2.2.4)
 
-**Tanggal Rilis: ** 14 Desember 2024
+**Tanggal Rilis:** 14 Desember 2024
 
 - ✅ Simpan ke Catatan
 - ✅ Tanya AI Chatbot
