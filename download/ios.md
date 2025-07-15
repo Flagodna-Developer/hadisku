@@ -14,4 +14,4 @@ Kami sedang berupaya agar HadisKu tersedia untuk pengguna iPhone dan iPad melalu
 
 ---
 
-Butuh dukungan atau ingin membantu kami memprioritaskan macOS? Hubungi kami melalui Email [hadisku@outlook.com](mailto:hadisku@outlook.com).
+Butuh dukungan atau ingin membantu kami memprioritaskan iOS? Hubungi kami melalui Email [hadisku@outlook.com](mailto:hadisku@outlook.com).

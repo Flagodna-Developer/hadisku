@@ -1,36 +1,35 @@
-# Unduh FastiQuran
+# Unduh HadisKu
 
-Dapatkan FastiQuran versi terbaru untuk perangkat Anda. Tersedia di Windows, macOS, Linux, Android, dan iOS.
+Dapatkan HadisKu versi terbaru untuk perangkat Anda. Tersedia di Windows, macOS, Linux, Android, dan iOS.
 
 ## 📱 Versi Seluler
 
 ### Android
 
 ✅ **OS Minimum:** Android 8.0+
-🔗 [Unduhan Halaman](/fastiquran/download/android) (Instal Langsung)
-📲 [Google Play Store](https://play.google.com/...) (Direkomendasikan)
+📲 [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.hadisku) (Direkomendasikan)
 
 ### iOS (iPhone & iPad)
 
 ✅ **OS Minimum:** iOS 14.0+
-🔗 [Unduhan Halaman](/fastiquran/download/ios) (Instal Langsung)
+🔗 [Unduhan Halaman](/HadisKu/download/ios) (Instal Langsung)
 
 ## 💻 Versi Desktop
 
 ### Windows
 
 ✅ **Mendukung:** Windows 10/11 (64-bit & 32-bit)
-📥 [Unduhan Halaman](/fastiquran/download/windows)
+📥 [Unduhan Halaman](/HadisKu/download/windows)
 
 ### macOS
 
 ✅ **Mendukung:** Intel & Apple Silicon (M1/M2)
-🍏 [Unduhan Halaman](/fastiquran/download/macos)
+🍏 [Unduhan Halaman](/HadisKu/download/macos)
 
 ### Linux
 
 ✅ **Mendukung:** Ubuntu, Fedora, Debian, Arch
-📦 [Unduhan Halaman](/fastiquran/download/linux)
+📦 [Unduhan Halaman](/HadisKu/download/linux)
 
 ---
 
@@ -38,4 +37,4 @@ Dapatkan FastiQuran versi terbaru untuk perangkat Anda. Tersedia di Windows, mac
 
 - [FAQ](/faq)
 
-**Terakhir Diperbarui:** Jun 2025
+**Terakhir Diperbarui:** Jul 2025
