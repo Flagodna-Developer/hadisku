@@ -22,8 +22,8 @@ Selamat datang di rilis resmi Linux **HadisKu**. Pilih versi di bawah ini untuk 
 
 **Unduh:**
 
-- [Extensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.5/hadisku-2.2.5+225-linux.deb)
-- [Extensi .appimage](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.5/hadisku-2.2.5+225-linux.AppImage)
+- [Ekstensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.5/hadisku-2.2.5+225-linux.deb)
+- [Ekstensi .appimage](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.5/hadisku-2.2.5+225-linux.AppImage)
 
 ## 📜 Versi Sebelumnya
 

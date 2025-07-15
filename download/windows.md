@@ -22,9 +22,7 @@ Selamat datang di rilis resmi **HadisKu** untuk Windows. Pilih versi di bawah in
 
 **Unduh:**
 
-- [Extensi .deb](https://play.google.com/store/apps/details?id=com.flagodna.hadisku)
-- [Extensi .rpm](https://play.google.com/store/apps/details?id=com.flagodna.hadisku)
-- [Extensi .appimage](https://play.google.com/store/apps/details?id=com.flagodna.hadisku)
+- [Ekstensi .exe](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.5/Hadisku-x86_64-2.2.5+225-Installer.exe)
 
 ## 📜 Versi Sebelumnya
 
