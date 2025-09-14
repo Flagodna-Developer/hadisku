@@ -6,6 +6,18 @@ Selamat datang di rilis resmi **HadisKu** untuk Windows. Pilih versi di bawah in
 
 ## 🚀 Rilis Terbaru
 
+### [2.2.7](#2.2.7)
+
+**Tanggal Rilis:** 15 September 2025
+
+- ✅ Perbaikan pencarian hadis (Lebih Cepat dan Akurat)
+- ✅ Perbaikan UI dan Icon
+- ✅ Penambahan pencarian Arab dan Nomor
+
+**Unduh:**
+
+- [Ekstensi .exe](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.7/Hadisku-x86_64-2.2.7+227-Installer.exe)
+
 ### [2.2.5](#2.2.5)
 
 **Tanggal Rilis:** 15 Juli 2025
