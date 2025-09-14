@@ -1,6 +1,12 @@
 {
   "en": [
     {
+      "name": "AmalanKu",
+      "desc": "Daily Charity Recording Application for Muhasabah and Istiqomah, free and without advertising.",
+      "url": "https://play.google.com/store/apps/details?id=com.flagodna.amalanku",
+      "image": "https://play-lh.googleusercontent.com/OEX4m2ev-W9474lCQFO_YaESuhENUTnjEf9aIbZqNL1RIBOAuHXK98tnelKXXotKAZkr7_Gkg3nRU5nZdea2ZA=w120-h240-rw"
+    },
+    {
       "name": "FastiQuran",
       "desc": "Free · No Ads · Cross-Platform. Just Quran for You.",
       "url": "https://play.google.com/store/apps/details?id=com.flagodna.fastiquran",
@@ -14,6 +20,12 @@
     }
   ],
   "id": [
+    {
+      "name": "AmalanKu",
+      "desc": "Aplikasi Pencatat Amal Harian untuk Bermuhasabah dan beristiqomah, gratis dan tanpa iklan.",
+      "url": "https://play.google.com/store/apps/details?id=com.flagodna.amalanku",
+      "image": "https://play-lh.googleusercontent.com/OEX4m2ev-W9474lCQFO_YaESuhENUTnjEf9aIbZqNL1RIBOAuHXK98tnelKXXotKAZkr7_Gkg3nRU5nZdea2ZA=w120-h240-rw"
+    },
     {
       "name": "FastiQuran",
       "desc": "Aplikasi Quran Gratis · Tanpa Iklan · Multi Platform. Hanya Quran untuk Kamu.",
