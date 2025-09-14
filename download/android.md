@@ -6,6 +6,18 @@ Selamat datang di Android resmi rilis **HadisKu**. Pilih versi di bawah ini untu
 
 ## 🚀 Rilis Terbaru
 
+### [2.2.7](#2.2.7)
+
+**Tanggal Rilis:** 15 September 2025
+
+- ✅ Perbaikan pencarian hadis (Lebih Cepat dan Akurat)
+- ✅ Perbaikan UI dan Icon
+- ✅ Penambahan pencarian Arab dan Nomor
+
+**Unduh:**
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.hadisku)
+
 ### [2.2.5](#2.2.5)
 
 **Tanggal Rilis:** 15 Juli 2025

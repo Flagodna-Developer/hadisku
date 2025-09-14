@@ -6,6 +6,19 @@ Selamat datang di rilis resmi Linux **HadisKu**. Pilih versi di bawah ini untuk 
 
 ## 🚀 Rilis Terbaru
 
+### [2.2.7](#2.2.7)
+
+**Tanggal Rilis:** 15 September 2025
+
+- ✅ Perbaikan pencarian hadis (Lebih Cepat dan Akurat)
+- ✅ Perbaikan UI dan Icon
+- ✅ Penambahan pencarian Arab dan Nomor
+
+**Unduh:**
+
+- [Ekstensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.7/hadisku-2.2.7+227-linux.deb)
+- [Ekstensi .appimage](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.2.7/hadisku-2.2.7+227-linux.AppImage)
+
 ### [2.2.5](#2.2.5)
 
 **Tanggal Rilis:** 15 Juli 2025
