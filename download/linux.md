@@ -2,6 +2,10 @@
 
 Selamat datang di rilis resmi Linux **HadisKu**. Pilih versi di bawah ini untuk mengunduh atau melihat rinciannya.
 
+[![hadisku](https://snapcraft.io/hadisku/badge.svg)](https://snapcraft.io/hadisku)
+
+Aplikasi Hadisku juga dapat diunduh di Snap Store : [https://snapcraft.io/hadisku](https://snapcraft.io/hadisku)
+
 ---
 
 ## 🚀 Rilis Terbaru

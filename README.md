@@ -13,8 +13,9 @@ permalink: /
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-blue.svg)](https://github.com/Flagodna-Developer/hadisku)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Flagodna-Developer/hadisku/total.svg)](https://github.com/Flagodna-Developer/hadisku/releases)
+[![hadisku](https://snapcraft.io/hadisku/badge.svg)](https://snapcraft.io/hadisku)
 
----
+## [![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/hadisku)
 
 ## 🌟 Selamat datang di HadisKu
 
