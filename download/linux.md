@@ -10,20 +10,13 @@ Selamat datang di rilis resmi Linux **HadisKu**. Pilih versi di bawah ini untuk 
 
 **Tanggal Rilis:** 24 Oktober 2025
 
-- ✅ Menerapkan Memori Page 16 Kb (Android)
-
-### [2.2.9](#2.2.9)
-
-**Tanggal Rilis:** 23 Oktober 2025
-
 - ✅ Antarmuka yang lebih segar dan ramah pengguna (Hijau Fresh)
 - ✅ Peningkatan kinerja untuk pemuatan hadis yang lebih cepat
 
-### [2.2.8](#2.2.8)
+**Unduh:**
 
-**Tanggal Rilis:** 22 Oktober 2025
-
-- ✅ Tambahkan Dukungan Tautan Universal (buka Hadis langsung dari tautan web)
+- [Ekstensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.3.0/hadisku-2.3.0+230-linux.AppImage)
+- [Ekstensi .appimage](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.3.0/hadisku-2.3.0+230-linux.AppImage)
 
 ### [2.2.7](#2.2.7)
 
