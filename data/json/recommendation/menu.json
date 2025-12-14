@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "AmalanKu",
+    "subtitle": "Amalan harian muslim lengkap dengan pengingat",
+    "packageName": "com.flagodna.amalanku",
+    "playStoreUrl": "market://details?id=com.flagodna.amalanku",
+    "imageUrl": "https://play-lh.googleusercontent.com/OEX4m2ev-W9474lCQFO_YaESuhENUTnjEf9aIbZqNL1RIBOAuHXK98tnelKXXotKAZkr7_Gkg3nRU5nZdea2ZA=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  },
+  {
+    "id": "2",
+    "name": "Hijri Hari Ini",
+    "subtitle": "Widget kalender hijriyah di layar utama android. Termasuk notifikasi hari besar islam.",
+    "packageName": "com.flagodna.hijridate",
+    "playStoreUrl": "market://details?id=com.flagodna.hijridate",
+    "imageUrl": "https://play-lh.googleusercontent.com/I-6OP4h6QYRd5bkER5J8fcV0Cji9A4unzgMScUc0ROkJEt1VRtTSaBVgCh5Md00SpOmlmn0WU0QTihVBTrc0bQ=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  },
+  {
+    "id": "3",
+    "name": "Fasti Quran",
+    "subtitle": "Al Quran lengkap dengan terjemahan dan tafsir. Termasuk terjemahan Depag 1990.",
+    "packageName": "com.flagodna.fastiquran",
+    "playStoreUrl": "market://details?id=com.flagodna.fastiquran",
+    "imageUrl": "https://play-lh.googleusercontent.com/dcNZr7J5hL3m-XsbFDDtLCWnvqxMgmw5SyQXIidUjIuujvJ3p3-x1VZnF97MYjsobOg=s64-rw",
+    "category": "Prayer",
+    "priority": 9
+  }
+]
