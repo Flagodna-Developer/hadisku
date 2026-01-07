@@ -6,6 +6,17 @@ Selamat datang di rilis resmi **HadisKu** untuk Windows. Pilih versi di bawah in
 
 ## 🚀 Rilis Terbaru
 
+### [2.5.1](#2.5.1)
+
+**Tanggal Rilis:** 07 Januari 2026
+
+- ✅ Fitur Baru: Pembuat Kartu Hadis! Ubah Hadis favorit Anda menjadi gambar indah
+- ✅ Pencarian Cepat: Cari Hadis berdasarkan teks atau nomor kini jauh lebih cepat dan akurat
+
+**Unduh:**
+
+- [Ekstensi .exe](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.5.1/Hadisku-x86_64-2.5.1+251-Installer.exe)
+
 ### [2.3.0](#2.3.0)
 
 **Tanggal Rilis:** 24 Oktober 2025
