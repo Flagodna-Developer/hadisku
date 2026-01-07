@@ -10,6 +10,18 @@ Aplikasi Hadisku juga dapat diunduh di Snap Store : [https://snapcraft.io/hadisk
 
 ## 🚀 Rilis Terbaru
 
+### [2.5.1](#2.5.1)
+
+**Tanggal Rilis:** 07 Januari 2026
+
+- ✅ Fitur Baru: Pembuat Kartu Hadis! Ubah Hadis favorit Anda menjadi gambar indah
+- ✅ Pencarian Cepat: Cari Hadis berdasarkan teks atau nomor kini jauh lebih cepat dan akurat
+
+**Unduh:**
+
+- [Ekstensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.5.1/hadisku-2.5.1+251-linux.deb)
+- [Ekstensi .appimage](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.5.1/hadisku-2.5.1+251-linux.AppImage)
+
 ### [2.3.0](#2.3.0)
 
 **Tanggal Rilis:** 24 Oktober 2025
@@ -19,7 +31,7 @@ Aplikasi Hadisku juga dapat diunduh di Snap Store : [https://snapcraft.io/hadisk
 
 **Unduh:**
 
-- [Ekstensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.3.0/hadisku-2.3.0+230-linux.AppImage)
+- [Ekstensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.3.0/hadisku-2.3.0+230-linux.deb)
 - [Ekstensi .appimage](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.3.0/hadisku-2.3.0+230-linux.AppImage)
 
 ### [2.2.7](#2.2.7)

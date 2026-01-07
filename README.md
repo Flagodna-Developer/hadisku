@@ -124,7 +124,7 @@ Desain intuitif dan mudah digunakan untuk semua pengguna.
 
 Butuh bantuan atau ingin berbagi masukan?
 
-- 📧 **Email**: hadisku@outlook.com
+- 📧 **Email**: flagodna.com@gmail.com
 - 🐛 **Laporan Bug**: [GitHub Issues](https://github.com/Flagodna-Developer/hadisku/issues)
 
 ---
