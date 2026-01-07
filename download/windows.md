@@ -15,7 +15,7 @@ Selamat datang di rilis resmi **HadisKu** untuk Windows. Pilih versi di bawah in
 
 **Unduh:**
 
-- [Ekstensi .exe](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.5.1/Hadisku-x86_64-2.5.1+251-Installer.exe)
+- [Ekstensi .exe](https://github.com/Flagodna-Developer/hadisku/releases/download/v2.5.1/Hadisku-Setup-x64-v2.5.1.exe)
 
 ### [2.3.0](#2.3.0)
 
