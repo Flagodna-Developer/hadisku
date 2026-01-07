@@ -77,3 +77,9 @@ Help make HadisKu accessible worldwide!
 We appreciate all contributions! Even if we can't accept every PR, we value your effort and will provide feedback where possible.
 
 Remember, you can always fork HadisKu to customize it for your needs!
+
+## Contributors
+
+<a href="https://github.com/Flagodna-Developer/hadisku/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Flagodna-Developer/hadisku" />
+</a>

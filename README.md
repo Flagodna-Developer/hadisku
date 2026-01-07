@@ -116,9 +116,9 @@ Desain intuitif dan mudah digunakan untuk semua pengguna.
 
 ## 🙌 Di Balik HadisKu
 
-**Pencipta & Pengelola Utama**: [Cahyanudien AS](https://github.com/cas8398)
-
----
+| <img src="https://github.com/cas8398.png" width="100px;"/><br />**[Cahyanudien AS](https://github.com/cas8398)** |
+| :--------------------------------------------------------------------------------------------------------------: |
+|                                          ✨ Pencipta & Pengelola Utama                                           |
 
 ## 🆘 Dukungan & Masukan
 
