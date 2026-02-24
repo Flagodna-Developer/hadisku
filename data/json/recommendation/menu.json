@@ -38,5 +38,15 @@
     "imageUrl": "https://play-lh.googleusercontent.com/aVZtzfMqE6wnLw9_Ix1kRkir2AVX2BgoATnzZs1B0GRU3mhvM2A_wUPTP2Q0pVarPXdWtxiAwxkW6RdW9BvUeSM=s64-rw",
     "category": "Prayer",
     "priority": 9
+  },
+  {
+    "id": "5",
+    "name": "InfaqKu",
+    "subtitle": "Kalkultor Zakat dan Pencatat Infaq, Sedekah, & Zakat.",
+    "packageName": "com.flagodna.zakatinfaqku",
+    "playStoreUrl": "market://details?id=com.flagodna.zakatinfaqku",
+    "imageUrl": "https://play-lh.googleusercontent.com/Xa_AbRPFhyy8xyINeZIMlum0vI7Jz56j_QYFb0-U50eQcQFchQyx8nLkL0tsXxlQ_kyGDd21DAtRaiNXGavCTw=s64-rw",
+    "category": "Prayer",
+    "priority": 9
   }
 ]
