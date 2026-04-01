@@ -49,7 +49,7 @@ HadisKu tersedia di semua platform utama:
 | 🖥️ **Windows** | [Unduh](https://flagodna-developer.github.io/hadisku/download/windows)            | Windows 10+   |
 | 🍎 **macOS**   | Dalam proses                                                                      | macOS 10.15+  |
 | 🐧 **Linux**   | [Unduh](https://flagodna-developer.github.io/hadisku/download/linux)              | Ubuntu 18.04+ |
-| 📱 **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.flagodna.HadisKu) | Android 6.0+  |
+| 📱 **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.flagodna.hadisku) | Android 6.0+  |
 | 🍎 **iOS**     | Dalam proses                                                                      | iOS 12.0+     |
 
 ---
@@ -75,6 +75,58 @@ Temukan Hadits dengan cepat berdasarkan kata kunci, topik, atau sumber.
 ### 🎨 **Antarmuka Bersih**
 
 Desain intuitif dan mudah digunakan untuk semua pengguna.
+
+---
+
+## 🆘 Roadmap
+
+Rencana pengembangan aplikasi **Hadisku** ke depan.
+
+### ✅ v2.5.1 — Versi Saat Ini
+
+- [x] **Pembuat Kartu Hadis**  
+       Ubah hadis favorit menjadi kartu gambar yang indah dan siap dibagikan ke media sosial.
+
+- [x] **Pencarian lebih cepat dan akurat**  
+       Cari hadis berdasarkan teks maupun nomor kini lebih cepat, lebih ringan, dan lebih presisi.
+
+- [x] **Optimasi performa aplikasi**  
+       Berbagai peningkatan sistem agar aplikasi terasa lebih ringan, responsif, dan nyaman digunakan.
+
+<a id="v300"></a>
+
+### 🚧 v3.0.0 — Sedang Berjalan
+
+- [x] **Pembaruan ikon aplikasi**  
+       Mengganti ikon lama dengan ikon baru yang lebih fresh dan representatif.
+
+  | Sebelum                                | Sesudah                                |
+  | -------------------------------------- | -------------------------------------- |
+  | ![Ikon lama](data/image/icons/251.jpg) | ![Ikon baru](data/image/icons/300.jpg) |
+
+- [ ] **Menghapus iklan di aplikasi**  
+       Pengalaman menggunakan Hadisku akan dibuat lebih nyaman tanpa iklan.  
+       _Saran dari: Gathut Bintoro, Herfando_
+
+- [ ] **Pencarian teks Arab**  
+       Menambahkan fitur pencarian hadits berdasarkan teks Arab.  
+       _Saran dari: Sopandi Akbar_
+
+- [ ] **Pengaturan urutan detail hadits**  
+       Menambahkan opsi tampilan:
+
+  - Arab → Indonesia
+  - Indonesia → Arab  
+    _Saran dari: Sopandi Akbar_
+
+- [ ] **Menghapus IAP & langganan**  
+       Fitur pembelian dalam aplikasi dan langganan akan dihapus.  
+       Dukungan pengembangan dapat dilakukan melalui donasi:  
+       **https://dukung.flagodna.com**
+
+- [ ] Rilis OS Android
+- [ ] Rilis OS Windows
+- [ ] Rilis OS Linux
 
 ---
 
@@ -126,8 +178,6 @@ Butuh bantuan atau ingin berbagi masukan?
 
 - 📧 **Email**: flagodna.com@gmail.com
 - 🐛 **Laporan Bug**: [GitHub Issues](https://github.com/Flagodna-Developer/hadisku/issues)
-
----
 
 ## 🙏 Ucapan Terima Kasih
 
