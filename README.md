@@ -131,18 +131,14 @@ Rencana pengembangan aplikasi **HadisKu** ke depan.
 
 - [x] **Menghapus iklan di aplikasi**  
        Pengalaman menggunakan HadisKu kini lebih nyaman tanpa iklan.  
-       _Terima kasih untuk saran dari: Gathut Bintoro, Herfando_
+       _Terima kasih untuk saran dari: [Gathut Bintoro](https://github.com/Flagodna-Developer/hadisku/issues/4), [Herfando](https://github.com/Flagodna-Developer/hadisku/issues/5)_
 
-- [x] **Pencarian teks Arab**  
-       Menambahkan fitur pencarian hadis berdasarkan teks Arab.  
-       _Terima kasih untuk saran dari: Sopandi Akbar_
-
-- [x] **Pengaturan urutan detail hadis**  
-       Menambahkan opsi tampilan:
+- [x] **Pencarian teks Arab & pengaturan urutan detail hadis**  
+       Menambahkan fitur pencarian hadis berdasarkan teks Arab, serta opsi tampilan:
 
   - Arab → Indonesia
   - Indonesia → Arab  
-    _Terima kasih untuk saran dari: Sopandi Akbar_
+    _Terima kasih untuk saran dari: [Sopandi Akbar](https://github.com/Flagodna-Developer/hadisku/issues/7)_
 
 - [x] **Pengaturan perataan teks Arab**  
        Menambahkan opsi perataan teks Arab:
