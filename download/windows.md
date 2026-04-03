@@ -6,6 +6,20 @@ Selamat datang di rilis resmi **HadisKu** untuk Windows. Pilih versi di bawah in
 
 ## 🚀 Rilis Terbaru
 
+### [3.0.0](#3.0.0)
+
+**Tanggal Rilis:** 01 April 2026
+
+- ✅ Pembaruan ikon aplikasi
+- ✅ Menghapus iklan di aplikasi
+- ✅ Pencarian teks Arab & pengaturan urutan detail hadis
+- ✅ Pengaturan perataan teks Arab
+- ✅ Menghapus IAP & langganan
+
+**Unduh:**
+
+- [Ekstensi .exe](https://github.com/Flagodna-Developer/hadisku/releases/download/v3.0.0/Hadisku-x86_64-3.0.0+300-Installer.exe)
+
 ### [2.5.1](#2.5.1)
 
 **Tanggal Rilis:** 07 Januari 2026

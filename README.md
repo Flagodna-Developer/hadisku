@@ -145,7 +145,7 @@ Rencana pengembangan aplikasi **HadisKu** ke depan.
 
 - [x] **Rilis Android (v3.0.0)**
 
-- [ ] **Rilis Windows (v3.0.0)**
+- [x] **Rilis Windows (v3.0.0)**
 
 - [x] **Rilis Linux (v3.0.0)**
 

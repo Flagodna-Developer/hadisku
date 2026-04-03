@@ -10,6 +10,28 @@ Selamat datang di Android resmi rilis **HadisKu**. Pilih versi di bawah ini untu
 
 ## 🚀 Rilis Terbaru
 
+### [3.0.0](#3.0.0)
+
+**Tanggal Rilis:** 01 April 2026
+
+- ✅ Pembaruan ikon aplikasi
+- ✅ Menghapus iklan di aplikasi
+- ✅ Pencarian teks Arab & pengaturan urutan detail hadis
+- ✅ Pengaturan perataan teks Arab
+- ✅ Menghapus IAP & langganan
+
+### [2.5.1](#2.5.1)
+
+**Tanggal Rilis:** -
+
+- ✅ Pembuat Kartu Hadis
+- ✅ Pencarian lebih cepat dan akurat
+- ✅ Optimasi performa aplikasi
+
+---
+
+---
+
 ### [2.3.0](#2.3.0)
 
 **Tanggal Rilis:** 24 Oktober 2025

@@ -10,6 +10,21 @@ Aplikasi Hadisku juga dapat diunduh di Snap Store : [https://snapcraft.io/hadisk
 
 ## 🚀 Rilis Terbaru
 
+### [3.0.0](#3.0.0)
+
+**Tanggal Rilis:** 01 April 2026
+
+- ✅ Pembaruan ikon aplikasi
+- ✅ Menghapus iklan di aplikasi
+- ✅ Pencarian teks Arab & pengaturan urutan detail hadis
+- ✅ Pengaturan perataan teks Arab
+- ✅ Menghapus IAP & langganan
+
+**Unduh:**
+
+- [Ekstensi .deb](https://github.com/Flagodna-Developer/hadisku/releases/download/v3.0.0/hadisku-3.0.0+300-linux.deb)
+- [Ekstensi .appimage](https://github.com/Flagodna-Developer/hadisku/releases/download/v3.0.0/hadisku-3.0.0+300-linux.AppImage)
+
 ### [2.5.1](#2.5.1)
 
 **Tanggal Rilis:** 07 Januari 2026
