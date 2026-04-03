@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-blue.svg)](https://github.com/Flagodna-Developer/hadisku)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Flagodna-Developer/hadisku/total.svg)](https://github.com/Flagodna-Developer/hadisku/releases)
-![Release](https://img.shields.io/github/v/release/Flagodna-Developer/hadisku?color=purple)
+[![Release](https://img.shields.io/github/v/release/Flagodna-Developer/hadisku?color=purple)](https://github.com/Flagodna-Developer/hadisku/releases)
 [![hadisku](https://snapcraft.io/hadisku/badge.svg)](https://snapcraft.io/hadisku)
 
 ## 🌟 Selamat Datang di HadisKu
