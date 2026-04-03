@@ -1,11 +1,3 @@
----
-layout: default
-title: "HadisKu"
-description: "Kitab Hadis 14 Imam"
-image: "https://flagodna-developer.github.io/hadisku/screenshot/desktop.png"
-permalink: /
----
-
 # HadisKu – Kitab Hadis 14 Imam
 
 **HadisKu** adalah aplikasi multi-platform yang menyatukan koleksi otentik dari **14 Imam** dalam satu tempat, sehingga memudahkan Anda mempelajari, merujuk, dan berbagi Hadits di mana pun Anda berada.
@@ -13,9 +5,8 @@ permalink: /
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-blue.svg)](https://github.com/Flagodna-Developer/hadisku)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Flagodna-Developer/hadisku/total.svg)](https://github.com/Flagodna-Developer/hadisku/releases)
+![Release](https://img.shields.io/github/v/release/Flagodna-Developer/hadisku?color=purple)
 [![hadisku](https://snapcraft.io/hadisku/badge.svg)](https://snapcraft.io/hadisku)
-
-## [![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/hadisku)
 
 ## 🌟 Selamat Datang di HadisKu
 
@@ -156,7 +147,7 @@ Rencana pengembangan aplikasi **HadisKu** ke depan.
 
 - [ ] **Rilis Windows (v3.0.0)**
 
-- [ ] **Rilis Linux (v3.0.0)**
+- [x] **Rilis Linux (v3.0.0)**
 
 ---
 
