@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HadisKu – Kitab Hadis 14 Imam</title>
+    <meta
+      name="description"
+      content="HadisKu – Aplikasi multi-platform koleksi hadis autentik dari 14 Imam. Belajar hadis lebih mudah, ringan, dan tanpa iklan."
+    />
+    <meta name="theme-color" content="#0f1923" />
+    <link rel="icon" type="image/png" href="./data/image/icons/300.jpg" />
+    <meta property="og:title" content="HadisKu" />
+    <meta
+      property="og:description"
+      content="HadisKu – Aplikasi multi-platform koleksi hadis autentik dari 14 Imam. Belajar hadis lebih mudah, ringan, dan tanpa iklan."
+    />
+    <meta
+      property="og:image"
+      content="https://flagodna-developer.github.io/hadisku/screenshot/desktop.png"
+    />
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./data/css/style.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://flagodna.com/#organization",
+            "name": "FlagoDNA",
+            "url": "https://flagodna.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://flagodna-developer.github.io/data/icon/flagodna/flagodna_32.jpg"
+            }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.wikidata.org/wiki/Q138566666",
+            "name": "Cahyanudien Aziz Saputra",
+            "alternateName": ["Cahyanudien", "Introversoul"],
+            "url": "https://www.cahyanudien.site",
+            "image": "https://avatars.githubusercontent.com/cas8398",
+            "sameAs": [
+              "https://github.com/cas8398",
+              "https://linkedin.com/in/cahyanudien",
+              "https://x.com/cas8398",
+              "https://www.wikidata.org/wiki/Q138566666"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "@id": "https://flagodna-developer.github.io/hadisku/#app",
+            "name": "HadisKu",
+            "url": "https://flagodna-developer.github.io/hadisku/",
+            "image": "https://flagodna-developer.github.io/hadisku/screenshot/desktop.png",
+            "operatingSystem": "Android, Windows, Linux",
+            "applicationCategory": "EducationalApplication",
+            "description": "Aplikasi hadis offline lintas platform dengan koleksi hadis dari 14 Imam. Cepat, ringan, privat, dan tanpa iklan.",
+            "author": {
+              "@id": "https://www.wikidata.org/wiki/Q138566666"
+            },
+            "publisher": {
+              "@id": "https://flagodna.com/#organization"
+            },
+            "installUrl": "https://play.google.com/store/apps/details?id=com.flagodna.hadisku",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            },
+            "featureList": [
+              "Koleksi hadis dari 14 Imam",
+              "100% offline — semua data tersimpan lokal",
+              "Pencarian hadis cepat",
+              "Bookmark hadis favorit",
+              "Catatan pribadi pada hadis",
+              "Generator kartu hadis",
+              "Lintas platform Android, Windows, dan Linux",
+              "Tanpa iklan dan tanpa tracking",
+              "UI ringan dan cepat",
+              "Gratis dan open-source"
+            ]
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <div id="progress-bar"></div>
+    <div class="bg-glow"></div>
+    <div class="toast" id="toast"></div>
+
+    <!-- NAVBAR -->
+    <nav>
+      <a href="#" class="nav-brand">
+        <img
+          src="https://flagodna-developer.github.io/hadisku/data/image/icons/300.jpg"
+          alt="HadisKu"
+          onerror="this.style.display='none'"
+        />
+        <span>HadisKu</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="#kitab">Kitab Hadis</a></li>
+        <li><a href="#fitur">Fitur</a></li>
+        <li>
+          <a
+            href="#download"
+            class="btn-outline btn"
+            style="padding: 7px 16px; font-size: 13px"
+            >Unduh App</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://play.google.com/store/apps/details?id=com.flagodna.hadisku"
+            target="_blank"
+            class="nav-cta"
+            >Google Play ↗</a
+          >
+        </li>
+      </ul>
+    </nav>
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="hero-badge">
+        <span>📖</span> Kitab Hadis Digital &nbsp;·&nbsp; 14 Imam
+      </div>
+      <h1>Koleksi Hadis Autentik <em>14 Imam</em><br />dalam Satu Genggaman</h1>
+      <p class="hero-sub">
+        HadisKu menghadirkan lebih dari
+        <strong style="color: var(--text)">75.000+ hadis</strong> dari 14 kitab
+        imam terkemuka, lengkap dengan teks Arab, terjemahan, dan status
+        verifikasi. Tanpa iklan, tanpa biaya.
+      </p>
+      <div class="hero-actions">
+        <a href="#kitab" class="btn btn-primary">📚 Jelajahi Kitab Hadis</a>
+        <a href="#download" class="btn btn-outline">✨ Unduh HadisKu</a>
+      </div>
+
+      <div class="hero-ayat">
+        <span class="arabic"
+          >إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ وَإِنَّمَا لِكُلِّ امْرِئٍ مَا
+          نَوَى</span
+        >
+        <div class="translation">
+          "Sesungguhnya setiap perbuatan tergantung pada niatnya, dan bagi
+          setiap orang (balasan) sesuai apa yang ia niatkan."
+        </div>
+        <div class="source">— HR. Bukhari No. 1 · Shahih</div>
+      </div>
+    </section>
+
+    <!-- STATS -->
+    <div class="stats" id="stats-bar">
+      <div class="stat-item">
+        <div class="stat-num" id="s-total">75.951</div>
+        <div class="stat-lbl">Total Hadis</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">14</div>
+        <div class="stat-lbl">Kitab Imam</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">4</div>
+        <div class="stat-lbl">Platform</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">Gratis</div>
+        <div class="stat-lbl">Tanpa Iklan</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-num">v3.0</div>
+        <div class="stat-lbl">Versi Terbaru</div>
+      </div>
+    </div>
+
+    <main>
+      <!-- KITAB SECTION -->
+      <section id="kitab">
+        <div class="section-header">
+          <div class="section-label">📚 Koleksi Lengkap</div>
+          <h2 class="section-title">14 Kitab Hadis Terpercaya</h2>
+          <p class="section-desc">
+            Pilih kitab hadis yang ingin Anda pelajari. Setiap hadis dilengkapi
+            teks Arab, terjemahan Bahasa Indonesia, dan status keaslian.
+          </p>
+        </div>
+
+        <!-- Search -->
+        <div class="search-wrap">
+          <svg
+            class="search-icon"
+            width="16"
+            height="16"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <circle cx="11" cy="11" r="8" />
+            <path d="m21 21-4.35-4.35" />
+          </svg>
+          <input
+            type="text"
+            id="kitab-search"
+            placeholder="Cari nama kitab..."
+          />
+        </div>
+
+        <div class="kitab-grid" id="kitab-grid">
+          <!-- Populated by JS -->
+        </div>
+      </section>
+
+      <!-- FEATURES -->
+      <section id="fitur">
+        <div class="section-header">
+          <div class="section-label">⚡ Mengapa HadisKu</div>
+          <h2 class="section-title">Fitur Unggulan</h2>
+        </div>
+        <div class="features-grid">
+          <div class="feature-card">
+            <div class="feature-icon">🔍</div>
+            <div class="feature-title">Pencarian Canggih</div>
+            <div class="feature-desc">
+              Cari hadis berdasarkan kata kunci, nomor, topik, atau teks Arab
+              langsung dari 75.000+ data hadis.
+            </div>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">🌙</div>
+            <div class="feature-title">Akses Offline</div>
+            <div class="feature-desc">
+              Bawa seluruh perpustakaan hadis ke mana pun tanpa memerlukan
+              koneksi internet.
+            </div>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">🔖</div>
+            <div class="feature-title">Bookmark Hadis</div>
+            <div class="feature-desc">
+              Simpan hadis favorit Anda untuk dibaca kembali kapan saja dengan
+              mudah.
+            </div>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">🎨</div>
+            <div class="feature-title">Kartu Hadis</div>
+            <div class="feature-desc">
+              Ubah hadis menjadi kartu gambar indah yang siap dibagikan ke media
+              sosial.
+            </div>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">🕌</div>
+            <div class="feature-title">Teks Arab + Indonesia</div>
+            <div class="feature-desc">
+              Tampilan hadis dalam teks Arab asli disertai terjemahan Bahasa
+              Indonesia yang akurat.
+            </div>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">✅</div>
+            <div class="feature-title">Status Verifikasi</div>
+            <div class="feature-desc">
+              Setiap hadis dilengkapi status verifikasi keaslian dari para ulama
+              hadis terpercaya.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- DOWNLOAD -->
+      <section id="download">
+        <div class="download-section">
+          <div class="ornament">
+            <div class="ornament-line"></div>
+            <span>✦</span>
+            <div class="ornament-line right"></div>
+          </div>
+          <div class="download-title">Unduh HadisKu Sekarang</div>
+          <div class="download-sub">
+            Tersedia gratis di berbagai platform. Tanpa iklan, tanpa langganan.
+          </div>
+          <div class="download-btns">
+            <a
+              href="https://play.google.com/store/apps/details?id=com.flagodna.hadisku"
+              target="_blank"
+              class="dl-btn"
+            >
+              <span class="platform">🤖</span>
+              <div class="info">
+                <div class="label">Unduh di</div>
+                <div>Google Play</div>
+              </div>
+            </a>
+            <a
+              href="https://flagodna-developer.github.io/hadisku/download/windows"
+              target="_blank"
+              class="dl-btn"
+            >
+              <span class="platform">🖥️</span>
+              <div class="info">
+                <div class="label">Unduh untuk</div>
+                <div>Windows</div>
+              </div>
+            </a>
+            <a
+              href="https://flagodna-developer.github.io/hadisku/download/linux"
+              target="_blank"
+              class="dl-btn"
+            >
+              <span class="platform">🐧</span>
+              <div class="info">
+                <div class="label">Unduh untuk</div>
+                <div>Linux</div>
+              </div>
+            </a>
+            <a
+              href="https://hadisku.flagodna.com"
+              target="_blank"
+              class="dl-btn"
+            >
+              <span class="platform">🌐</span>
+              <div class="info">
+                <div class="label">Akses via</div>
+                <div>Web Browser</div>
+              </div>
+            </a>
+          </div>
+          <p style="font-size: 12px; color: var(--text-dim); margin-top: 20px">
+            iOS & macOS segera hadir · Android 6.0+ · Windows 10+ · Ubuntu
+            18.04+
+          </p>
+        </div>
+      </section>
+
+      <!-- MISSION -->
+      <div style="text-align: center; padding: 0 0 80px">
+        <div class="ornament" style="margin-bottom: 20px">
+          <div class="ornament-line"></div>
+          <span style="color: var(--gold)">✦</span>
+          <div class="ornament-line right"></div>
+        </div>
+        <p
+          style="
+            font-family: 'Amiri', serif;
+            font-size: clamp(15px, 2.5vw, 20px);
+            color: var(--text-muted);
+            font-style: italic;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.8;
+          "
+        >
+          "Barangsiapa yang menempuh jalan untuk mencari ilmu, Allah akan
+          memudahkan baginya jalan menuju surga."<br />
+          <span
+            style="font-size: 13px; color: var(--text-dim); font-style: normal"
+            >— Nabi Muhammad ﷺ · HR. Muslim</span
+          >
+        </p>
+        <div style="margin-top: 28px">
+          <a
+            href="https://dukung.flagodna.com"
+            target="_blank"
+            class="btn btn-outline"
+            style="font-size: 13px"
+            >❤️ Dukung Pengembangan HadisKu</a
+          >
+        </div>
+      </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="footer-brand">HadisKu ﷺ</div>
+      <div class="footer-links">
+        <a href="https://hadisku.flagodna.com" target="_blank">Web App</a>
+        <a href="https://github.com/Flagodna-Developer/hadisku" target="_blank"
+          >GitHub</a
+        >
+        <a
+          href="https://play.google.com/store/apps/details?id=com.flagodna.hadisku"
+          target="_blank"
+          >Google Play</a
+        >
+        <a href="https://dukung.flagodna.com" target="_blank">Dukung Kami</a>
+        <a href="mailto:flagodna.com@gmail.com">Kontak</a>
+        <a href="https://flagodna.com" target="_blank">FlagoDNA</a>
+      </div>
+      <div class="footer-copy">
+        Dibuat dengan ❤️ untuk Umat Muslim · © 2026 FlagoDNA · GPLv3
+      </div>
+    </footer>
+
+    <script>
+      // ── DATA ──
+      const KITABS = [
+        {
+          id: "bukhari",
+          name: "Bukhari",
+          count: 7008,
+          icon: "📗",
+          desc: "Sahih Bukhari, kitab hadis paling shahih.",
+        },
+        {
+          id: "muslim",
+          name: "Muslim",
+          count: 5362,
+          icon: "📘",
+          desc: "Sahih Muslim, koleksi hadis pilihan.",
+        },
+        {
+          id: "abudawud",
+          name: "Abu Dawud",
+          count: 4590,
+          icon: "📙",
+          desc: "Sunan Abu Dawud, kitab fiqih hadis.",
+        },
+        {
+          id: "tirmidzi",
+          name: "Tirmidzi",
+          count: 3891,
+          icon: "📕",
+          desc: "Sunan Tirmidzi, dengan grading perawi.",
+        },
+        {
+          id: "annasai",
+          name: "An Nasai",
+          count: 5662,
+          icon: "📒",
+          desc: "Sunan An Nasai, teliti dalam periwayatan.",
+        },
+        {
+          id: "ibnumajah",
+          name: "Ibnu Majah",
+          count: 4332,
+          icon: "📓",
+          desc: "Sunan Ibnu Majah, kitab fiqih & sunnah.",
+        },
+        {
+          id: "addarimi",
+          name: "Ad Darimi",
+          count: 3367,
+          icon: "📔",
+          desc: "Sunan Ad Darimi, terkenal dengan isnadnya.",
+        },
+        {
+          id: "ahmad",
+          name: "Ahmad",
+          count: 26363,
+          icon: "📚",
+          desc: "Musnad Ahmad, koleksi hadis terbesar.",
+        },
+        {
+          id: "malik",
+          name: "Malik",
+          count: 1595,
+          icon: "🗒️",
+          desc: "Muwatha Malik, kitab hadis tertua.",
+        },
+        {
+          id: "daruquthni",
+          name: "Daruquthni",
+          count: 4790,
+          icon: "📜",
+          desc: "Sunan Daruquthni, kritis terhadap sanad.",
+        },
+        {
+          id: "ibnuhibban",
+          name: "Ibnu Hibban",
+          count: 2769,
+          icon: "🔖",
+          desc: "Shahih Ibnu Hibban, seleksi ketat.",
+        },
+        {
+          id: "ibnukhuzaimah",
+          name: "Ibnu Khuzaimah",
+          count: 1808,
+          icon: "📋",
+          desc: "Shahih Ibnu Khuzaimah, fiqih &amp; sunnah.",
+        },
+        {
+          id: "mustadrak",
+          name: "Mustadrak",
+          count: 673,
+          icon: "🗂️",
+          desc: "Al Mustadrak Al Hakim, syarat Bukhari Muslim.",
+        },
+        {
+          id: "syafii",
+          name: "Syafii",
+          count: 1800,
+          icon: "📰",
+          desc: "Musnad Syafii, dasar mazhab Syafii.",
+        },
+      ];
+
+      const BASE = "https://hadisku.flagodna.com/hadith";
+
+      // ── PROGRESS BAR ──
+      window.addEventListener("scroll", () => {
+        const el = document.getElementById("progress-bar");
+        const scrolled = window.scrollY;
+        const total = document.body.scrollHeight - window.innerHeight;
+        el.style.width = (scrolled / total) * 100 + "%";
+      });
+
+      // ── RENDER KITAB GRID ──
+      function renderKitab(filter = "") {
+        const grid = document.getElementById("kitab-grid");
+        const filtered = KITABS.filter((k) =>
+          k.name.toLowerCase().includes(filter.toLowerCase())
+        );
+        grid.innerHTML = filtered
+          .map(
+            (k) => `
+      <a href="${BASE}/${k.id}/1" target="_blank" class="kitab-card">
+        <div class="kitab-icon">${k.icon}</div>
+        <div class="kitab-name">Hadis ${k.name}</div>
+        <div class="kitab-count">${k.count.toLocaleString("id")} Hadis</div>
+        <div class="kitab-desc">${k.desc}</div>
+        <span class="kitab-arrow">→</span>
+      </a>
+    `
+          )
+          .join("");
+      }
+      renderKitab();
+      document
+        .getElementById("kitab-search")
+        .addEventListener("input", (e) => renderKitab(e.target.value));
+
+      // Override selectTab to use fallback data
+      const origSelectTab = selectTab;
+      window.selectTab = function (id) {
+        activeKitab = id;
+        renderTabs();
+        document.getElementById("view-all-btn").href = `${BASE}/${id}/1`;
+        if (FALLBACK_HADITHS[id]) {
+          loadHadithsFallback(id);
+        } else {
+          loadHadiths(id);
+        }
+      };
+
+      // ── INTERSECTION OBSERVER for animations ──
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((e) => {
+            if (e.isIntersecting) {
+              e.target.style.opacity = "1";
+              e.target.style.transform = "translateY(0)";
+            }
+          });
+        },
+        { threshold: 0.1 }
+      );
+
+      document
+        .querySelectorAll(".feature-card, .kitab-card, .hadith-card")
+        .forEach((el) => {
+          el.style.opacity = "0";
+          el.style.transform = "translateY(16px)";
+          el.style.transition =
+            "opacity 0.4s ease, transform 0.4s ease, border-color 0.22s, box-shadow 0.22s";
+          observer.observe(el);
+        });
+    </script>
+  </body>
+</html>
