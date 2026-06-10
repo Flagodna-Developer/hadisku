@@ -116,6 +116,7 @@
       <ul class="nav-links">
         <li><a href="#kitab">Kitab Hadis</a></li>
         <li><a href="#fitur">Fitur</a></li>
+        <li><a href="#contact">Kontak</a></li>
         <li>
           <a href="./index-en.html">🇬🇧 English</a>
         </li>
@@ -353,6 +354,182 @@
         </div>
       </section>
 
+      <!-- CONTACT -->
+      <section id="contact">
+        <div class="section-header">
+          <div class="section-label">✉️ Saran &amp; Masukan</div>
+          <h2 class="section-title">Kirim Pesan</h2>
+          <p class="section-desc">
+            Ada pertanyaan, laporan bug, atau ide fitur baru? Kami senang
+            mendengarnya.
+          </p>
+        </div>
+
+        <div class="ornament" style="margin-bottom: 32px">
+          <div class="ornament-line"></div>
+          <span>✦</span>
+          <div class="ornament-line right"></div>
+        </div>
+
+        <div
+          class="contact-card"
+          style="
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: clamp(28px, 5vw, 48px);
+            position: relative;
+            overflow: hidden;
+            max-width: 720px;
+            margin: 0 auto 80px;
+          "
+        >
+          <div
+            style="
+              position: absolute;
+              top: 0;
+              left: 50%;
+              transform: translateX(-50%);
+              width: 100%;
+              height: 2px;
+              background: linear-gradient(
+                90deg,
+                transparent,
+                var(--gold),
+                transparent
+              );
+            "
+          ></div>
+
+          <p
+            style="
+              font-size: 12.5px;
+              font-weight: 600;
+              color: var(--text-muted);
+              letter-spacing: 0.3px;
+              margin-bottom: 10px;
+            "
+          >
+            Topik
+          </p>
+          <div
+            id="topicGrid"
+            style="
+              display: grid;
+              grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+              gap: 10px;
+              margin-bottom: 24px;
+            "
+          >
+            <div
+              class="topic-btn active"
+              data-topic="Pertanyaan Umum"
+              onclick="selectTopic(this)"
+            >
+              ❓ Pertanyaan Umum
+            </div>
+            <div
+              class="topic-btn"
+              data-topic="Laporan Bug"
+              onclick="selectTopic(this)"
+            >
+              🐛 Laporan Bug
+            </div>
+            <div
+              class="topic-btn"
+              data-topic="Permintaan Fitur"
+              onclick="selectTopic(this)"
+            >
+              💡 Permintaan Fitur
+            </div>
+            <div
+              class="topic-btn"
+              data-topic="Lainnya"
+              onclick="selectTopic(this)"
+            >
+              🗂️ Lainnya
+            </div>
+          </div>
+
+          <div
+            style="
+              display: grid;
+              grid-template-columns: 1fr 1fr;
+              gap: 16px;
+              margin-bottom: 16px;
+            "
+          >
+            <div class="contact-field">
+              <label>Nama <span style="color: var(--gold)">*</span></label>
+              <input
+                type="text"
+                id="fNama"
+                placeholder="Nama Anda"
+                maxlength="80"
+              />
+            </div>
+            <div class="contact-field">
+              <label>Email <span style="color: var(--gold)">*</span></label>
+              <input type="email" id="fEmail" placeholder="email@contoh.com" />
+            </div>
+          </div>
+
+          <div class="contact-field" style="margin-bottom: 16px">
+            <label>Subjek <span style="color: var(--gold)">*</span></label>
+            <input
+              type="text"
+              id="fSubjek"
+              placeholder="Tuliskan subjek pesan..."
+              maxlength="120"
+            />
+          </div>
+
+          <div class="contact-field" style="margin-bottom: 24px">
+            <div
+              style="
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+              "
+            >
+              <label>Pesan <span style="color: var(--gold)">*</span></label>
+              <span
+                id="charCount"
+                style="font-size: 11px; color: var(--text-dim)"
+                >0 / 1000</span
+              >
+            </div>
+            <textarea
+              id="fPesan"
+              placeholder="Tuliskan pesan Anda di sini..."
+              maxlength="1000"
+              oninput="document.getElementById('charCount').textContent=this.value.length+' / 1000'"
+              style="min-height: 120px; resize: none"
+            ></textarea>
+          </div>
+
+          <div
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              gap: 16px;
+              flex-wrap: wrap;
+            "
+          >
+            <p style="font-size: 11.5px; color: var(--text-dim); flex: 1">
+              Atau email langsung ke
+              <a href="mailto:flagodna.com@gmail.com" style="color: var(--teal)"
+                >flagodna.com@gmail.com</a
+              >
+            </p>
+            <a href="#" onclick="sendMail(event)" class="btn btn-primary"
+              >✉️ Kirim Pesan</a
+            >
+          </div>
+        </div>
+      </section>
+
       <!-- MISSION -->
       <div style="text-align: center; padding: 0 0 80px">
         <div class="ornament" style="margin-bottom: 20px">
@@ -551,19 +728,6 @@
         .getElementById("kitab-search")
         .addEventListener("input", (e) => renderKitab(e.target.value));
 
-      // Override selectTab to use fallback data
-      const origSelectTab = selectTab;
-      window.selectTab = function (id) {
-        activeKitab = id;
-        renderTabs();
-        document.getElementById("view-all-btn").href = `${BASE}/${id}/1`;
-        if (FALLBACK_HADITHS[id]) {
-          loadHadithsFallback(id);
-        } else {
-          loadHadiths(id);
-        }
-      };
-
       // ── INTERSECTION OBSERVER for animations ──
       const observer = new IntersectionObserver(
         (entries) => {
@@ -586,6 +750,43 @@
             "opacity 0.4s ease, transform 0.4s ease, border-color 0.22s, box-shadow 0.22s";
           observer.observe(el);
         });
+
+      var selectedTopic = "Pertanyaan Umum";
+
+      function selectTopic(el) {
+        document
+          .querySelectorAll(".topic-btn")
+          .forEach((b) => b.classList.remove("active"));
+        el.classList.add("active");
+        selectedTopic = el.dataset.topic;
+      }
+
+      function sendMail(e) {
+        e.preventDefault();
+        const nama = document.getElementById("fNama").value.trim();
+        const email = document.getElementById("fEmail").value.trim();
+        const subjek = document.getElementById("fSubjek").value.trim();
+        const pesan = document.getElementById("fPesan").value.trim();
+        if (!nama || !email || !subjek || !pesan) {
+          alert("Harap isi semua field yang wajib diisi (*).");
+          return;
+        }
+        const sub = encodeURIComponent(
+          "[HadisKu – " + selectedTopic + "] " + subjek
+        );
+        const bod = encodeURIComponent(
+          "Topik: " +
+            selectedTopic +
+            "\nNama: " +
+            nama +
+            "\nEmail: " +
+            email +
+            "\n\nPesan:\n" +
+            pesan
+        );
+        window.location.href =
+          "mailto:flagodna.com@gmail.com?subject=" + sub + "&body=" + bod;
+      }
     </script>
   </body>
 </html>
