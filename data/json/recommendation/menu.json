@@ -20,6 +20,16 @@
     "priority": 9
   },
   {
+    "id": "6",
+    "name": "KasirCepat",
+    "subtitle": "Aplikasi kasir offline untuk UMKM, toko, warung, dan kios.",
+    "packageName": "com.flagodna.kasircepat",
+    "playStoreUrl": "market://details?id=com.flagodna.kasircepat",
+    "imageUrl": "https://play-lh.googleusercontent.com/YNzfzRfgmCI82N00op6CD48otZnwaeTqoFq2eqpoj8PHqDEbbYxyhPdzsmCq_LC1qiNcbEG3O9ROF5lEo0aNvA=s64-rw",
+    "category": "Business",
+    "priority": 9
+  },
+  {
     "id": "3",
     "name": "Fasti Quran",
     "subtitle": "Al Quran lengkap dengan terjemahan dan tafsir. Termasuk terjemahan Depag 1990.",
