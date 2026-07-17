@@ -31,11 +31,11 @@
   },
   {
     "id": "3",
-    "name": "Fasti Quran",
-    "subtitle": "Al Quran lengkap dengan terjemahan dan tafsir. Termasuk terjemahan Depag 1990.",
+    "name": "Quran Today",
+    "subtitle": "Dirancang untuk membaca. Tanpa iklan, tanpa akun, dan langsung lanjut dari ayat terakhir.",
     "packageName": "com.flagodna.fastiquran",
     "playStoreUrl": "market://details?id=com.flagodna.fastiquran",
-    "imageUrl": "https://play-lh.googleusercontent.com/dcNZr7J5hL3m-XsbFDDtLCWnvqxMgmw5SyQXIidUjIuujvJ3p3-x1VZnF97MYjsobOg=s64-rw",
+    "imageUrl": "https://play-lh.googleusercontent.com/T-doA2oG05xc1FZNYqn2Typ_0xrImpqz3WeXHovWRWV6logxTuUoCg9LpZIiGMsCPet9LJATBdErm9OSzyyWvw=s48-rw",
     "category": "Prayer",
     "priority": 9
   },
