@@ -361,174 +361,67 @@
       <!-- CONTACT -->
       <section id="contact">
         <div class="section-header">
-          <div class="section-label">✉️ Feedback & Suggestions</div>
+          <div class="section-label">✉️ Suggestions &amp; Feedback</div>
           <h2 class="section-title">Send a Message</h2>
           <p class="section-desc">
-            Have a question, found a bug, or have a new feature idea? We'd love
-            to hear from you.
+            Have a question, bug report, or a new feature idea? We'd love to
+            hear it.
           </p>
-        </div>
-
-        <div class="ornament" style="margin-bottom: 32px">
-          <div class="ornament-line"></div>
-          <span>✦</span>
-          <div class="ornament-line right"></div>
-        </div>
-
-        <div
-          class="contact-card"
-          style="
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 20px;
-            padding: clamp(28px, 5vw, 48px);
-            position: relative;
-            overflow: hidden;
-            max-width: 720px;
-            margin: 0 auto 80px;
-          "
-        >
-          <div
-            style="
-              position: absolute;
-              top: 0;
-              left: 50%;
-              transform: translateX(-50%);
-              width: 100%;
-              height: 2px;
-              background: linear-gradient(
-                90deg,
-                transparent,
-                var(--gold),
-                transparent
-              );
-            "
-          ></div>
-
-          <p
-            style="
-              font-size: 12.5px;
-              font-weight: 600;
-              color: var(--text-muted);
-              letter-spacing: 0.3px;
-              margin-bottom: 10px;
-            "
-          >
-            Topic
-          </p>
-          <div
-            id="topicGrid"
-            style="
-              display: grid;
-              grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-              gap: 10px;
-              margin-bottom: 24px;
-            "
-          >
-            <div
-              class="topic-btn active"
-              data-topic="General Question"
-              onclick="selectTopic(this)"
-            >
-              ❓ General Question
-            </div>
-            <div
-              class="topic-btn"
-              data-topic="Bug Report"
-              onclick="selectTopic(this)"
-            >
-              🐛 Bug Report
-            </div>
-            <div
-              class="topic-btn"
-              data-topic="Feature Request"
-              onclick="selectTopic(this)"
-            >
-              💡 Feature Request
-            </div>
-            <div
-              class="topic-btn"
-              data-topic="Other"
-              onclick="selectTopic(this)"
-            >
-              🗂️ Other
-            </div>
-          </div>
 
           <div
             style="
-              display: grid;
-              grid-template-columns: 1fr 1fr;
-              gap: 16px;
-              margin-bottom: 16px;
+              max-width: 560px;
+              margin: 2rem auto 0;
+              padding: 2rem 1.5rem;
+              border-radius: 16px;
+              text-align: center;
+              background: rgba(255, 255, 255, 0.04);
+              border: 1px solid rgba(255, 255, 255, 0.08);
             "
           >
-            <div class="contact-field">
-              <label>Name <span style="color: var(--gold)">*</span></label>
-              <input
-                type="text"
-                id="fNama"
-                placeholder="Your name"
-                maxlength="80"
-              />
-            </div>
-            <div class="contact-field">
-              <label>Email <span style="color: var(--gold)">*</span></label>
-              <input type="email" id="fEmail" placeholder="email@example.com" />
-            </div>
-          </div>
-
-          <div class="contact-field" style="margin-bottom: 16px">
-            <label>Subject <span style="color: var(--gold)">*</span></label>
-            <input
-              type="text"
-              id="fSubjek"
-              placeholder="Enter your subject..."
-              maxlength="120"
-            />
-          </div>
-
-          <div class="contact-field" style="margin-bottom: 24px">
             <div
               style="
+                width: 56px;
+                height: 56px;
+                margin: 0 auto 1rem;
                 display: flex;
-                justify-content: space-between;
                 align-items: center;
+                justify-content: center;
+                font-size: 1.5rem;
+                border-radius: 50%;
+                background: rgba(99, 102, 241, 0.12);
               "
             >
-              <label>Message <span style="color: var(--gold)">*</span></label>
-              <span
-                id="charCount"
-                style="font-size: 11px; color: var(--text-dim)"
-                >0 / 1000</span
-              >
+              ✉️
             </div>
-            <textarea
-              id="fPesan"
-              placeholder="Write your message here..."
-              maxlength="1000"
-              oninput="document.getElementById('charCount').textContent=this.value.length+' / 1000'"
-              style="min-height: 120px; resize: none"
-            ></textarea>
-          </div>
 
-          <div
-            style="
-              display: flex;
-              align-items: center;
-              justify-content: space-between;
-              gap: 16px;
-              flex-wrap: wrap;
-            "
-          >
-            <p style="font-size: 11.5px; color: var(--text-dim); flex: 1">
-              Or email us directly at
-              <a href="mailto:flagodna.com@gmail.com" style="color: var(--teal)"
-                >flagodna.com@gmail.com</a
-              >
+            <h3
+              style="
+                font-size: 1.15rem;
+                font-weight: 700;
+                margin-bottom: 0.5rem;
+              "
+            >
+              Have Feedback for Us?
+            </h3>
+            <p
+              style="
+                font-size: 0.9rem;
+                opacity: 0.75;
+                margin-bottom: 1.5rem;
+                line-height: 1.5;
+              "
+            >
+              Send it directly through Hadisku's official Suggestions &amp;
+              Feedback page.
             </p>
-            <a href="#" onclick="sendMail(event)" class="btn btn-primary"
-              >✉️ Send Message</a
+
+            <a
+              href="https://tiketea.flagodna.com/f/73e5b0b1-36f4-43fa-9860-df167e019efd?lang=en"
+              class="btn btn-primary"
+              target="_blank"
+              rel="noopener"
+              >✉️ Open Official Suggestions &amp; Feedback Page - Hadisku</a
             >
           </div>
         </div>
