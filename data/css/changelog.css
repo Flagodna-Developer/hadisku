@@ -1,0 +1,169 @@
+   /* Style tambahan khusus timeline changelog, belum ada di style.css */
+   .changelog-main {
+       max-width: 760px;
+       margin: 0 auto;
+       padding: 60px 20px 100px;
+   }
+
+   .timeline {
+       position: relative;
+       padding-left: 28px;
+       border-left: 2px solid rgba(255, 255, 255, 0.08);
+   }
+
+   .entry {
+       position: relative;
+       margin-bottom: 44px;
+   }
+
+   .entry:last-child {
+       margin-bottom: 0;
+   }
+
+   .entry::before {
+       content: "";
+       position: absolute;
+       left: -35px;
+       top: 6px;
+       width: 12px;
+       height: 12px;
+       border-radius: 50%;
+       background: var(--gold, #d4af6a);
+       border: 3px solid var(--bg, #0f1923);
+       box-shadow: 0 0 0 2px var(--gold, #d4af6a);
+   }
+
+   .entry-card {
+       background: rgba(255, 255, 255, 0.04);
+       border: 1px solid rgba(255, 255, 255, 0.08);
+       border-radius: 14px;
+       padding: 22px 24px;
+   }
+
+   .entry-meta {
+       display: flex;
+       flex-wrap: wrap;
+       align-items: center;
+       gap: 10px;
+       margin-bottom: 14px;
+   }
+
+   .entry-version {
+       font-family: "Amiri", serif;
+       font-size: 20px;
+       font-weight: 700;
+       color: var(--gold, #d4af6a);
+   }
+
+   .entry-badge {
+       font-size: 11px;
+       font-weight: 600;
+       letter-spacing: 0.03em;
+       text-transform: uppercase;
+       padding: 3px 10px;
+       border-radius: 999px;
+   }
+
+   .badge-minor {
+       background: rgba(99, 102, 241, 0.15);
+       color: #a5a8f7;
+       border: 1px solid rgba(99, 102, 241, 0.3);
+   }
+
+   .badge-patch {
+       background: rgba(52, 199, 89, 0.12);
+       color: #6fd68a;
+       border: 1px solid rgba(52, 199, 89, 0.28);
+   }
+
+   .entry-date {
+       margin-left: auto;
+       font-size: 12.5px;
+       color: var(--text-dim, #7c8896);
+   }
+
+   .change-list {
+       margin: 0;
+       padding: 0;
+       list-style: none;
+   }
+
+   .change-list li {
+       position: relative;
+       padding-left: 22px;
+       margin-bottom: 8px;
+       font-size: 14px;
+       color: var(--text-muted, #c7ced6);
+   }
+
+   .change-list li:last-child {
+       margin-bottom: 0;
+   }
+
+   .change-list li::before {
+       content: "＋";
+       position: absolute;
+       left: 0;
+       top: 0;
+       color: #4c85ee;
+       font-size: 13px;
+   }
+
+   .change-list li.fix::before {
+       content: "✓";
+       color: #6fd68a;
+   }
+
+   .change-list li::before {
+       display: inline-block;
+       width: 1.2em;
+       font-weight: bold;
+   }
+
+   /* Fixes & Bug Resolves */
+   .change-list li.fix::before {
+       content: "✓";
+       color: #6fd68a;
+   }
+
+   /* New Features & Additions */
+   .change-list li.add::before,
+   .change-list li.feature::before,
+   .change-list li.new::before {
+       content: "+";
+       color: #4ea8de;
+   }
+
+   /* Removals & Deprecations */
+   .change-list li.remove::before,
+   .change-list li.del::before {
+       content: "✕";
+       color: #e63946;
+   }
+
+   /* Updates, Improvements & Refactors */
+   .change-list li.update::before,
+   .change-list li.improve::before,
+   .change-list li.change::before {
+       content: "↑";
+       color: #ffb703;
+   }
+
+   /* Security Patches */
+   .change-list li.security::before {
+       content: "🔒";
+       font-size: 0.9em;
+   }
+
+   /* Performance Optimizations */
+   .change-list li.perf::before {
+       content: "⚡";
+       font-size: 0.9em;
+   }
+
+   /* Breaking Changes & Warnings */
+   .change-list li.breaking::before,
+   .change-list li.warning::before {
+       content: "⚠";
+       color: #fb8500;
+   }

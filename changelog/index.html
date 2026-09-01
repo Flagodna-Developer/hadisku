@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Changelog – HadisKu</title>
+    <meta
+      name="description"
+      content="Riwayat pembaruan dan perubahan versi aplikasi HadisKu."
+    />
+    <meta name="theme-color" content="#0f1923" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://cdn.flagodna.com/favicon/hadisku/hadisku.png"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../data/css/style.css" />
+    <link rel="stylesheet" href="../data/css/changelog.css" />
+  </head>
+  <body>
+    <div id="progress-bar"></div>
+    <div class="bg-glow"></div>
+
+    <!-- NAVBAR   -->
+    <nav>
+      <a href="../index.html" class="nav-brand">
+        <img
+          src="https://cdn.flagodna.com/favicon/hadisku/hadisku.png"
+          alt="HadisKu"
+          onerror="this.style.display='none'"
+        />
+        <span>HadisKu</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="../index.html#kitab">Kitab Hadis</a></li>
+        <li><a href="../index.html#fitur">Fitur</a></li>
+        <li><a href="../index.html#contact">Kontak</a></li>
+        <li>
+          <a href="https://flagodna.com/hadisku/blog/" target="_blank">Blog</a>
+        </li>
+        <li>
+          <a href="./en/index.html">🇬🇧 English</a>
+        </li>
+        <li>
+          <a
+            href="../index.html#download"
+            class="btn-outline btn"
+            style="padding: 7px 16px; font-size: 13px"
+            >Unduh App</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://play.google.com/store/apps/details?id=com.flagodna.hadisku"
+            target="_blank"
+            class="nav-cta"
+            >Google Play ↗</a
+          >
+        </li>
+      </ul>
+    </nav>
+
+    <main class="changelog-main">
+      <div class="section-header">
+        <div class="section-label">🗓️ Riwayat Rilis</div>
+        <h2 class="section-title">Changelog</h2>
+        <p class="section-desc">
+          Catatan pembaruan, perbaikan, dan fitur baru pada setiap versi
+          aplikasi HadisKu.
+        </p>
+      </div>
+
+      <div class="timeline">
+        <div class="entry">
+          <div class="entry">
+            <div class="entry-card">
+              <div class="entry-meta">
+                <span class="entry-version">4.0.0-beta.1</span>
+                <span class="entry-badge badge-patch">Preview UI</span>
+                <span class="entry-date">01 September 2026</span>
+              </div>
+              <ul class="change-list">
+                <li class="change">
+                  ⚠️
+                  <strong
+                    >Uji Coba Tampilan Baru V4 (Masih Placeholder):</strong
+                  >
+                  Versi beta ini ditujukan khusus bagi Anda yang ingin melihat
+                  dan mencoba desain antarmuka baru. Sebagian besar tombol dan
+                  fungsi di dalamnya
+                  <strong>belum dapat digunakan</strong> (masih berupa tampilan
+                  dummy) dan akan diaktifkan bertahap.
+                </li>
+                <li class="breaking">
+                  🚀 <strong>Perubahan Mesin Utama:</strong> Migrasi total dari
+                  Flutter ke Native Kotlin (Jetpack Compose) agar aplikasi lebih
+                  cepat, ringan, dan responsif.
+                </li>
+                <li class="change">
+                  🎨 <strong>Desain Baru UI/UX:</strong> Tampilan modern secara
+                  menyeluruh dengan standar Material 3.
+                </li>
+                <li>
+                  📌 <strong>Rancangan Tab Tersimpan:</strong> Pratinjau
+                  antarmuka untuk menyimpan hadis berdasarkan folder, imam, dan
+                  nomor ID.
+                </li>
+                <li>
+                  🎓 <strong>Rancangan Tab Belajar:</strong> Pratinjau antarmuka
+                  jalur belajar hadis bulanan, statistik, dan fitur
+                  <em>streak</em>.
+                </li>
+                <li>
+                  ⚙️ <strong>Pengaturan Preferensi:</strong> Baru mendukung opsi
+                  <em>Mode Gelap/Terang</em> (opsi ukuran teks & tampilan
+                  lainnya masih placeholder).
+                </li>
+                <li>
+                  🔍 <strong>Rancangan Halaman Pencarian:</strong> Pratinjau
+                  antarmuka pencarian hadis dan filter berdasarkan kitab.
+                </li>
+                <li class="fix">
+                  ✨ <strong>Tata Letak Halaman Utama:</strong> Pembaruan
+                  tampilan visual untuk Hadis Pilihan, Bacaan Harian, Daftar
+                  Kitab, dan Alat.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="footer-brand">HadisKu ﷺ</div>
+      <div class="footer-links">
+        <a href="../index.html">Beranda</a>
+        <a href="https://flagodna.com/hadisku/blog/" target="_blank">Blog</a>
+        <a href="https://github.com/Flagodna-Developer/hadisku" target="_blank"
+          >GitHub</a
+        >
+        <a href="mailto:flagodna.com@gmail.com">Kontak</a>
+        <a href="https://flagodna.com" target="_blank">FlagoDNA</a>
+      </div>
+      <div class="footer-copy">
+        Dibuat dengan ❤️ untuk Umat Muslim · © 2026 FlagoDNA · GPLv3
+      </div>
+    </footer>
+
+    <script>
+      window.addEventListener("scroll", () => {
+        const el = document.getElementById("progress-bar");
+        const scrolled = window.scrollY;
+        const total = document.body.scrollHeight - window.innerHeight;
+        el.style.width = (scrolled / total) * 100 + "%";
+      });
+    </script>
+  </body>
+</html>

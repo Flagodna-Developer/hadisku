@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Changelog – HadisKu</title>
+    <meta
+      name="description"
+      content="Release notes and version history of the HadisKu app."
+    />
+    <meta name="theme-color" content="#0f1923" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://cdn.flagodna.com/favicon/hadisku/hadisku.png"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../../data/css/style.css" />
+    <link rel="stylesheet" href="../../data/css/changelog.css" />
+  </head>
+  <body>
+    <div id="progress-bar"></div>
+    <div class="bg-glow"></div>
+
+    <!-- NAVBAR -->
+    <nav>
+      <a href="../../index-en.html" class="nav-brand">
+        <img
+          src="https://cdn.flagodna.com/favicon/hadisku/hadisku.png"
+          alt="HadisKu"
+          onerror="this.style.display='none'"
+        />
+        <span>HadisKu</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="../../index.html#kitab">Hadith Books</a></li>
+        <li><a href="../../index.html#fitur">Features</a></li>
+        <li><a href="../../index.html#contact">Contact</a></li>
+        <li>
+          <a href="https://flagodna.com/hadisku/blog/" target="_blank">Blog</a>
+        </li>
+        <li>
+          <a href="../index.html">🇮🇩 Indonesia</a>
+        </li>
+        <li>
+          <a
+            href="../../index.html#download"
+            class="btn-outline btn"
+            style="padding: 7px 16px; font-size: 13px"
+            >Download App</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://play.google.com/store/apps/details?id=com.flagodna.hadisku"
+            target="_blank"
+            class="nav-cta"
+            >Google Play ↗</a
+          >
+        </li>
+      </ul>
+    </nav>
+
+    <main class="changelog-main">
+      <div class="section-header">
+        <div class="section-label">🗓️ Release History</div>
+        <h2 class="section-title">Changelog</h2>
+        <p class="section-desc">
+          Updates, fixes, and new features for each version of the HadisKu app.
+        </p>
+      </div>
+
+      <div class="timeline">
+        <div class="entry">
+          <div class="entry-card">
+            <div class="entry-meta">
+              <span class="entry-version">4.0.0-beta.1</span>
+              <span class="entry-badge badge-patch">Preview UI</span>
+              <span class="entry-date">September 1, 2026</span>
+            </div>
+            <ul class="change-list">
+              <li class="change">
+                ⚠️
+                <strong>V4 New UI Preview (Placeholder):</strong>
+                This beta release is specifically for those who want to preview
+                the new interface design. Most buttons and functions are
+                <strong>not yet operational</strong> (dummy UI) and will be
+                enabled progressively.
+              </li>
+              <li class="breaking">
+                🚀 <strong>Core Engine Change:</strong> Complete migration from
+                Flutter to Native Kotlin (Jetpack Compose) for a faster,
+                lighter, and more responsive app.
+              </li>
+              <li class="change">
+                🎨 <strong>New UI/UX Design:</strong> A complete modern look
+                following Material 3 standards.
+              </li>
+              <li>
+                📌 <strong>Saved Tab Mockup:</strong> Interface preview for
+                saving hadith by folder, imam, and ID number.
+              </li>
+              <li>
+                🎓 <strong>Learn Tab Mockup:</strong> Interface preview for
+                monthly hadith learning paths, statistics, and streak features.
+              </li>
+              <li>
+                ⚙️ <strong>Preference Settings:</strong> Now supports
+                <em>Dark/Light Mode</em> (text size and other display options
+                are still placeholder).
+              </li>
+              <li>
+                🔍 <strong>Search Page Mockup:</strong> Interface preview for
+                hadith search and filtering by book.
+              </li>
+              <li class="fix">
+                ✨ <strong>Homepage Layout:</strong> Visual updates for Featured
+                Hadith, Daily Reading, Book List, and Tools sections.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="footer-brand">HadisKu ﷺ</div>
+      <div class="footer-links">
+        <a href="../../index-en.html">Home</a>
+        <a href="https://flagodna.com/hadisku/blog/" target="_blank">Blog</a>
+        <a href="https://github.com/Flagodna-Developer/hadisku" target="_blank"
+          >GitHub</a
+        >
+        <a href="mailto:flagodna.com@gmail.com">Contact</a>
+        <a href="https://flagodna.com" target="_blank">FlagoDNA</a>
+      </div>
+      <div class="footer-copy">
+        Made with ❤️ for the Muslim Ummah · © 2026 FlagoDNA · GPLv3
+      </div>
+    </footer>
+
+    <script>
+      window.addEventListener("scroll", () => {
+        const el = document.getElementById("progress-bar");
+        const scrolled = window.scrollY;
+        const total = document.body.scrollHeight - window.innerHeight;
+        el.style.width = (scrolled / total) * 100 + "%";
+      });
+    </script>
+  </body>
+</html>
