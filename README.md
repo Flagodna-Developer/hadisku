@@ -263,19 +263,34 @@ Penulisan ulang total dari Flutter ke **Native Kotlin (Jetpack Compose)**.
 
 ## 📸 Screenshots
 
-### 📱 HadisKu v4
-
-![HadisKu v4 - Beranda](https://cdn.hadisku.id/data/images/screenshots/hadisku_v4_home.jpg)
-
-![HadisKu v4 - Pengaturan](https://cdn.hadisku.id/data/images/screenshots/hadisku_v4_settings.jpg)
-
-### 🖥️ HadisKu V3 Desktop
-
-![Home Menu Desktop](screenshot/desktop.png "Application Dashboard - Desktop")
-
-### 📱 HadisKu V3 Mobile
-
-![Home Menu Phone](screenshot/phone.png "Application Dashboard - Phone")
+<table>
+  <tr>
+    <th colspan="2">📱 HadisKu v4</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.hadisku.id/data/images/screenshots/hadisku_v4_home.jpg" width="240" alt="HadisKu v4 - Beranda" />
+      <br /><sub>Beranda</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.hadisku.id/data/images/screenshots/hadisku_v4_settings.jpg" width="240" alt="HadisKu v4 - Pengaturan" />
+      <br /><sub>Pengaturan</sub>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">🖥️ HadisKu v3</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshot/desktop.png" width="240" alt="HadisKu v3 - Desktop" />
+      <br /><sub>Desktop</sub>
+    </td>
+    <td align="center">
+      <img src="screenshot/phone.png" width="240" alt="HadisKu v3 - Mobile" />
+      <br /><sub>Mobile</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
